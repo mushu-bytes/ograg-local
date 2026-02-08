@@ -1,0 +1,178 @@
+{
+  "@graph": [
+    {
+      "@type": "Age",
+      "name": "age",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "CCI",
+      "name": "CCI",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Depression",
+      "name": "depression",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Anxiety",
+      "name": "anxiety",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Education",
+      "name": "education",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "FinancialLevel",
+      "name": "financial_level",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "SleepDisturbance",
+      "name": "sleep_disturbance",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Sex",
+      "name": "sex",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "PEG",
+      "name": "peg",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Obesity",
+      "name": "obesity",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Alcohol",
+      "name": "alcohol",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "FearAvoidance",
+      "name": "fear_avoidance",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Catastrophizing",
+      "name": "catastrophizing",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Smoking",
+      "name": "smoking",
+      "description": "schéma:Texte"
+    },
+    {
+      "@type": "Alcohol",
+      "hasCauses": "obesity",
+      "hasAssociations": "anxiety",
+      "hasTemporalCauses": "depression",
+      "hasMediators": "hypertension, T2DM",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Obesity",
+      "hasCauses": "depression, anxiety",
+      "hasAssociations": "hypertension, T2DM, LBP",
+      "hasTemporalCauses": "sedentary lifestyle, poor diet",
+      "hasMediators": "inflammation, dysregulated hormones",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Depression",
+      "hasCauses": "stress, LBP, chronic pain",
+      "hasAssociations": "insomnia, loss of appetite, low energy",
+      "hasTemporalCauses": "genetic factors, psychological factors",
+      "hasMediators": "neurotransmitter imbalance, inflammation",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Anxiety",
+      "hasCauses": "stress, LBP, chronic pain",
+      "hasAssociations": "insomnia, muscle tension, rapid heart rate",
+      "hasTemporalCauses": "genetic factors, lifestyle factors",
+      "hasMediators": "increased adrenaline, cortisol levels",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "SleepDisturbance",
+      "hasCauses": "depression, anxiety, LBP",
+      "hasAssociations": "restless sleep, difficulty falling asleep",
+      "hasTemporalCauses": "circadian rhythm disruption, sleep apnea",
+      "hasMediators": "inflammation, neurotransmitter imbalance",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Sex",
+      "hasCauses": "genetic factors",
+      "hasAssociations": "risk factors for LBP, response to medications",
+      "hasTemporalCauses": "hormonal changes, menstrual cycle",
+      "hasMediators": "pain pathways, hormone levels",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "PEG",
+      "hasCauses": "sociocultural factors, educational level, financial status",
+      "hasAssociations": "access to healthcare, job security, pain management support",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "coping mechanisms, stress levels",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "FinancialLevel",
+      "hasCauses": "employment status, income level",
+      "hasAssociations": "access to healthcare, job security, pain management support",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "physical activity levels, stress levels",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Education",
+      "hasCauses": "knowledge about pain management, access to healthcare",
+      "hasAssociations": "employment opportunities, income level",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "coping mechanisms, self-efficacy",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Age",
+      "hasCauses": "genetic factors, lifestyle factors",
+      "hasAssociations": "risk factors for LBP, response to medications",
+      "hasTemporalCauses": "hormonal changes, menopause",
+      "hasMediators": "pain pathways, hormone levels",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "FearAvoidance",
+      "hasCauses": "anxiety, stress, LBP",
+      "hasAssociations": "avoidance of physical activity, overuse of pain medications",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "neurotransmitter imbalance, inflammation",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Catastrophizing",
+      "hasCauses": "anxiety, stress, LBP",
+      "hasAssociations": "perceived threat, emotional distress",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "neurotransmitter imbalance, inflammation",
+      "evidence": "10.2147/JPR.S349251"
+    },
+    {
+      "@type": "Smoking",
+      "hasCauses": "psychological factors, peer pressure",
+      "hasAssociations": "lung disease, cardiovascular disease, increased risk of LBP",
+      "hasTemporalCauses": "acute injury, chronic conditions",
+      "hasMediators": "inflammation, increased pain sensitivity",
+      "evidence": "10.2147/JPR.S349251"
+    }
+  ]
+}

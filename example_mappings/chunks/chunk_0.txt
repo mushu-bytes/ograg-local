@@ -1,0 +1,343 @@
+ORIGINAL RESEARCH
+Deciphering the Causal Relationships Between
+Low Back Pain Complications, Metabolic Factors,
+and Comorbidities
+Nader Tarabeih
+1,2, Alexander Kalinkovich1, Adel Shalata3, Stacey S Cherny
+1, Gregory Livshits1,4
+1DepartmentofAnatomyandAnthropology,SacklerFacultyofMedicine,Tel-AvivUniversity,Tel-Aviv,Israel;2MaaleHaCarmelMentalHealthCenter,
+Affiliated to Rappaport Faculty of Medicine Technion, Israel Institute of Technology, Haifa, Israel;3The Simon Winter Institute for Human Genetics,
+Bnai Zion Medical Center, TheRuth and BruceRappaport Facultyof Medicine, Technion,Haifa, Israel;4AdelsonSchoolof Medicine, ArielUniversity,
+Ariel, Israel
+Correspondence: Gregory Livshits, Department of Morphological Studies, Adelson School of Medicine, Ariel University, Ariel, 40700, Israel,
+Tel +972-3-6409494, Fax +972-3-6408287, Email zviliv@ariel.ac.il
+Purpose: Low back pain (LBP) is one of the major disabling health conditions in aging societies presenting significant cost burdens to
+health and social care systems. Its complications and associated disabilityare often accompanied by mental disorders, metaboliccomorbid-
+ities, changed body composition, and inflammation. However, their mutual relationships in LBP-associated disability remain unclear.
+Methods: In the present case-control study, a self-report validated questionnaire was used to collect LBP disability data in an
+ethnically homogeneous Israeli Arab sample (489 males and 589 females). Body composition parameters were assessed through
+bioelectricalimpedanceanalysisandplasmalevelsofsolublemarkersbyEISA.Comorbiditystatuswasassessedinpersonalinterview
+and from the individual medical files.
+Results:Our mixed multiple regression analysis identified that GDF-15 (β = 0.160, p = 2.95×10-8), vaspin (β = 0.085, p = 0.003),
+follistatin(β=0.076,p=0.001),extracellularwater(β=0.096,p=0.001),waisthipratio (β=0.072,p=0.009),mentaldisorders(β
+= 0.077, p =0.001), and metabolic comorbidities (β = 0.059, p= 0.02) weresignificantly associated with LBP disability scores, when
+controlling for age and sex effects. Additive Bayesian network modelling further suggests that LBP disability appears to be directly
+influenced by age, sex, GDF-15, and extracellular water, and indirectly by mental and metabolic disorders, waist-hip ratio, and
+follistatin. LBP, in turn, seems to affect the vaspin levels directly.
+Conclusion: Our data suggest the existence of a complex, age-associated, and probably hierarchical, relationship between LBP
+disability and mental and metabolic disorders, inflammation-related soluble markers, and body composition parameters.
+Keywords: low back pain, disability, GDF-15, follistatin, vaspin, body composition, depression, comorbidities
+Introduction
+Chronic musculoskeletal pain (MSP) is a widespread degenerative condition that often causes physical disability,
+particularly in elderly.1The rate of MSP in adult populations is frequently examined, with a focus on three commonly
+reported pain disorders: shoulder pain, low back pain (LBP) and fibromyalgia.2LBP is among the most disabling
+musculoskeletal conditions,3causing severe long-term pain and physical disability with lifetime prevalence reaching up
+to 80%, and has an annual prevalence ranging from 25% to 60% in different ethnic groups.4The incidence and
+prevalence of LBP is higher in women and strongly increases with age.5
+Accumulating evidence indicates that LBP severity and resulting disability are frequently associated with mental
+disorders, such as depression and schizophrenia.6–11Although the reasons for this association are poorly understood,
+some somatic comorbidities, including metabolic disorders, such as obesity, type-2 diabetes (T2DM), hyperlipidemia,
+and cardiovascular diseases, especially hypertension, were repeatedly suggested as the factors linking mental and
+Journal of Pain Research 2022:15 215–227 215
+© 2022 Tarabeih et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).Journal of Pain Research Dovepress
+open access to scientific and medical research
+Open Access Full Text Article
+Received: 13 November 2021
+Accepted: 23 December 2021
+Published: 29 January 2022
+musculoskeletal pain conditions.12–15Nevertheless, the causal relationships between mental disorders and somatic
+diseases, including musculoskeletal pain, remain unclear despite decades of research.16–18
+LBP is a multifactorial condition, affected by a variety of intrinsic and extrinsic factors. For example, association of
+LBPwithbodycompositionparameters,inparticularwithfatmass,hasbeenrepeatedlyreported.19–21Numerousstudies,
+including our own, demonstrated a close association of several soluble factors, mainly pro-inflammatory cytokines and
+adipokines, with LBP disability and body composition parameters.22–26For example, we have recently reported that
+plasma levels of growth and differentiation factor 15 (GDF-15), a protein belonging to the transforming growth factor
+beta (TGFβ) superfamily of cytokines, are significantly associated with LBP-related phenotypes, independently of age,
+sex, and body composition.25GDF-15 is involved in various inflammation-mediated conditions and metabolic
+diseases.24,27,28Moreover, GDF-15 plasma levels were found to be elevated in psychosis and bipolar disorder.29–31We
+also recently reported that circulating levels of visceral adipose tissue-derived serine protease inhibitor (vaspin) are
+significantly associated with LBP severity and disability.26In human subjects, vaspin was previously found to be
+negatively associated with obesity, waist and hip circumferences, systolic and diastolic blood pressure, duration of
+diabetes, cardiovascular diseases, and bone loss, serving as a protective factor for all these conditions.32–34
+Another molecule, which attracted our attention, is follistatin, a glycoprotein, known for its ability to antagonize
+actions of several members of the TGFβ molecules, such as myostatin and activin A.35Follistatin promotes skeletal
+musclehypertrophy,36preventscartilageformation,postnatalbonemetabolism,andfracturehealing,37,38andparticipates
+in the development of metabolic disorders.39–41
+The major aim of the present study was to evaluate the extent to which LBP-caused disability is associated with the
+combined effect of GDF-15, follistatin, and vaspin, and body composition characteristics, controlling for age. As
+progression of mental disorders is often associated with body composition changes and metabolic comorbidities, such
+as T2DM, hyperlipidemia, and hypertension, we were also interested in whether mental disorders and the metabolic
+comorbidities are associated with worsening of the LBP disability. Finally, bearing in mind the potential practical
+significance of the results obtained, we attempted to uncover the possible causal network underlying the relationships
+among all these variables.
+Materials and Methods
+Study Design and Population
+This project was originally designed as a case-control, community-based, cross-sectional study. To both diminish the
+genetic heterogeneity of the sample and enrich the sample for familial LBP cases, LBP-affected (cases) and non-
+affected(control)individualswerethemembersofoneof98nuclearandmorecomplexthree-generationfamilies.The
+datawerecollectedfrom1078individuals,withagerangingfrom18to80yearsold,inoutpatientclinicslocatedinthe
+city of Sakhnin, Northern District, Israel, from January 2014 to January 2019, constituting an ethnically Arab
+population living for generations in this area. This population is characterized by a demographically stable structure
+with traditional relations between family members who share very similar ecologic, socio-economic, and lifestyle
+conditions, with access to modern medical facilities. The inclusion criteria were as follows: the families were selected
+viaaproband(<45yearsofage)whowaspreviouslydiagnosedwithLBPbyaphysician,confirmedbyanorthopedist,
+and had at least one first-degree relative diagnosed with a similar LBP condition. The exclusion criteria included: (1)
+fractureorsurgeryinthespinewithinthepast2years;(2)pregnancy;(3)severeheartproblems;(4)and/orbeingunder
+the age of 18. The unaffected members (with no LBP symptomatology) from the same family were considered as the
+control group.
+Subjects were assessed by certified and experienced nurses in accordance with our detailedprotocol. Each participat-
+ing individual filled out the Roland–Morris Disability Questionnaire (RMDQ),42described below, and provided basic
+demographic data. Blood samples, anthropometric measurements, and body composition measurements (using bioimpe-
+dance,BIA)werealsotakenfromeachindividual.Inaddition,comorbiditystatuswasassessedinpersonalinterviewand
+from the individual medical files. Blood samples were used to assay plasma concentrations of biochemical factors
+relevant to this study. All participants were informed about the aim and protocol of the study and gave written informed
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 216Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+consent. This research was approved by the IRB-Helsinki Committee (Number: 042/2013K, Date: 04.11.2013) of the
+Meir Medical Center, Kfar Saba, Israel, and the Ethics Committee of Tel Aviv University, Tel Aviv, Israel.
+Roland–Morris Low Back Pain and Disability Questionnaire (RMDQ) -Assessment
+RMDQ is one of the most commonly used questionnaires designed to assess self-rated physical disability caused by
+LBP.43This assessment generates a functional impairment score. The method yields reliable measures of disability and
+hasbeenusedinseveralstudiesofLBP.44,45TheRMDQincludes24itemsrelatedtobehaviorswhichcanbeaffectedby
+LBP. Each item is qualified with the phrase “because of my back pain” to ensure that the problem is due to back pain.45
+TheRMDQscoreiscalculatedbyasasimplesumofthenumberofitemsendorsed.Thescoresrangefrom0to24,with
+higher scores indicating greater levels of disability. The Arabic version of the RMDQ was validated.46The original
+distribution of the disability scores in our sample deviated substantially from normality and therefore was log-
+transformed to diminish the extent of the deviation. This score was considered as an indicator of LBP disability in the
+present study, and was examined as a quantitative continuous phenotype.
+Anthropometric and Body Composition Assessment
+Anthropometric measurements included body height (cm), weight (kg), and waist and hip circumferences (cm). These
+measurements wereused tocalculatebodymassindex(BMI)inkg/m2andwaist-to-hipratio(WHR).Body composition
+was assessed by the BIA method using the BIA101 device (Akern Bioresearch, Italy).47BIA is a technique to estimate
+body compositions based on differences in electricalconductive properties of various tissues. It measures the impedance
+of oppositions to the flow of an electric current through body fluids contained mainly in lean body tissues. This analyzer
+measures body composition using a constant high-frequency current (50kHz, 90µA). Each pair of adhesive skin
+electrodes is placed on the hand and foot on one side, typically the right side of the body, and connected to the
+instrument by an electrode cable set, with the subject in supine position.48BIA is a safe, reliable, simple, accurate, and
+inexpensive method to assess a variety of body composition parameters.49Importantly, its accuracy is comparable to the
+DXA method, while avoiding exposure to any radiation.47We used this device for evaluation of the following body
+composition parameters: fat mass (FM), skeletal muscle mass (SMM) in kilograms, and extracellular water (ECW) and
+intracellular water (ICW) in liters, which the BIA derives from the impedance vector. ECW and ICW were selected
+because of their fundamental physiological significance.50As body mass components are strongly inter-correlated and
+depend on body weight, they were examined as ratios to body weight; ie, FM/W and SMM/W. Details on the BIA
+technology have been published recently elsewhere.25
+Medical History and Mental Health Comorbidity
+The comorbidities in the entire sample of 1078 individuals were captured in two ways. First, all subjects were asked to
+identify any medical conditions for which they received treatment in 2014–2016. Second, for those subjected who
+consentedto provideusaccessto theirmedicalrecords, weused thatdata aswell.When differencesinthepatternswere
+found between the two sources, the data from the medical records were used in the analysis. In the present sample, 69
+individuals were diagnosed with mental disorders, of which 59 individuals suffered from chronic depression/anxiety and
+10 individuals had schizophrenia. Information on hyperlipidemia, hypertension, and T2DM was also available in the
+medicalfiles.Metaboliccomorbidityconditionswerecollapsedtofivegroups:thosewithoutanycomorbidity,thosewith
+hyperlipidemia, those with hypertension, those with T2DM, and those with hyperlipidemia, hypertension, and T2DM as
+HLD+HTN+T2DM.
+Soluble Biomarker Analysis
+Plasma levels of GDF-15, follistatin, and vaspin were detected by ELISA using DuoSet kits (R&D Systems,
+Minneapolis, MN, USA), as previously described.25,26Due to significant deviation of the respective distributions from
+normality assumptions, the original measurements were subjected to a log transformation and standardized prior to
+analysis.
+Journal of Pain Research 2022:15https://doi.org/10.2147/JPR.S349251
+DovePress217Dovepress Tarabeih et al
+Powered by TCPDF (www.tcpdf.org)
+Statistical Analysis
+Statistical analysis of the data was conducted using Statistica 64 ( TIBCO Software , Version 13.5), and R (R Foundation
+for Statistical Computing, Vienna, Austria, Version 4.0.2). The first stage of the analysis included identification of the
+major potential predictors from each group of variables, body composition, soluble markers, and comorbidity, using
+ANOVA/ANCOVAandcorrelation analyses,withadjustment forageandsex. Next,thebestpotentialpredictorsof LBP
+disability scores were simultaneously examined in a linear mixed model, allowing for familial correlations based on
+degree of kinship. We used the kinship2 package for R to generate kinship matrices within families for use with the
+relmatLmer function for quantitative dependent variables in the R package lme4qtl.51,52The mixed multiple regression
+analysis was conducted in two ways. First, each group of variables (soluble markers and body composition measure-
+ments, and comorbidity) was examined in separate analyses, simultaneously adjusting for age and sex differences.
+Second, the variables that were significant in this first set of analyses were then tested simultaneously in the final mixed
+multiple regression analysis.
+Finally,inanattempttoexploretheunderlyingcausalstructureforthevariablesexamined,weusedadditiveBayesian
+network models,53as implemented in the R package ABN, version 2.3,54,55with JAGS software, version 4.3.0 to
+simulate data for correcting for overfitting.56ABN modelling is a data-driven, exploratory, statistical method for
+uncovering causation among a set of variables which are correlated and is ideally suited for hypothesis generation
+when there is littletheoretical basis for predicting the causal structure. By effectivelyperforming a search of all possible
+causal relationships linking a set of variables, provided they constitute a directed acyclic graph (DAG), where no causal
+loops are present, a model of the causal structure can be inferred without the need for making strong prior assumptions.
+This model shows which variables directly cause which other variables. These links are referred to as arcs in DAG
+terminology, and the parameter estimates corresponding to the arcs are analogous to coefficients in a multiple linear
+regression.WhileABNmodellingdoesnotrequiremakinganycausalassumptions,iftherearestrongtheoreticalreasons
+for making assumptions, they should be made and they will aid in finding the best model. We therefore did not permit
+causalarcsthatweretheoreticallynonsensical.Ourrestrictionswere:(1)sexwasnotpermittedtobecausedbyanyother
+variable,(2)ageattestingcouldnotbecausedbyanyothervariableexceptsex,(3)mentalillnesswasnotallowedtobe
+causedbyanyvariablesotherthanageorsex,and(4)theoutcomevariable,LBPdisability,wasnotallowedtocauseany
+variableotherthanvaspin.Inaddition,weforcedinclusionofacausalpath(arc)fromLBPdisabilitytovaspinandfrom
+GDF-15toLBPdisabilityfortheoreticalreasons.Weused afour-stageanalysispipeline toarriveatafinalcausalmodel
+that guards against overfitting, as previously described.57Because it is theoretically possible that different causal
+structures could produce the same likelihood of the data,58,59we caution that there are equivalent models with causal
+directionreversed,thoughthisisnotofmajorconcernduetostrongtheoreticalbasisforthedirectionofsomeofthearcs.
+Results
+Sample Characteristics
+Basic descriptive statistics of the study variables are presented in the supplementary material ( Table S1). The sample
+included 489 males and 589 females, with non-significant (p = 0.65) age differences between the sexes (42.80±13.90 vs
+43.20±13.70), of which 228 (46.62%) males vs 330 (56.01%) females suffered from diagnosed LBP (p = 0.0021). The
+comparisonsofalltheothervariableswereconductedwiththeadjustmentforageandwereallalsosignificantlydifferent
+between women and men, as expected ( Table S1, Supplementary Material).
+Table S2provides comparison of the study variables between the control and the affected individuals. As expected,
+LBP disability scores were much higher in the affected group than in unaffected individuals (15.89±0.30 vs 3.89±0.09,
+p = 0.0001). The groups also differed on most other variables.
+When the correlations of the LBP scores with all the potential covariates were examined in the entire sample, we
+observed that both age and sex were highly significantly and independently associated with LBP disability score in
+multiple regression analysis (β AGE= 0.157±0.030, p = 2.65×10−7and βwomen= 0.131±0.027, p = 3.0×10−6). Subsequent
+analyses were therefore all conducted controlling for age and sex differences between the individuals ( Table 1). As can
+beseen,mostofthevariablesshowedsignificantassociationwiththedisabilityscore,beforeandafteradjustmentforage
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 218Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+and sex. The correlations with SMM/W, ICW, and hyperlipidemia become nonsignificant after adjustment. Interestingly,
+compared to individuals without any comorbidity, LBP disability scores were significantly elevated in individuals
+diagnosed with mental disorders, hypertension, and T2DM, but in particular in those having HLD+HTN+T2DM (p =
+0.00004, after adjustment, Table 1).
+However,thevariablesusedascovariatesofLBPdisabilityinthisstudywerenotindependentfromoneanother( TableS3).
+Body composition variables (BMI, SMM/W, and FM/W) were in particular highly inter-correlated (collinear) and also each
+moderatelycorrelatedwithECW,eitherpositivelyornegatively(absoluterrangedfrom0.46to0.49,p<0.001);therefore,to
+avoid redundancy and multicollinearity, in subsequent multiple regression analyses we used only ECW.
+Figure 1illustrates the gradual increase in LBP disability rates with age and separately with the elevation of
+circulating levels of each of the three studied soluble factors. Due to the substantial increase in LBP scores with age
+overshadowing other effects, the multiple R’s in all three regression analyses were very similar in magnitude and
+significance. However, despite the significant contribution of age to these relationships, the partial correlations with
+each of the soluble factors survived adjustment for age (and sex) and remained statistically significant ( Figure 1).
+Multivariable Analyses
+At this stage, all variables that were significantly associated with LBP-related phenotypes in univariate models ( Table 1)
+were analyzed using a mixed-model logistic regression to simultaneously test the extent of the associations of the body
+composition measurements and plasma levels of soluble markers. Since our sample was composed of nuclear families
+and complex pedigrees, we used a mixed model that takes into account familial composition of the sample. In order to
+avoid a risk of collinearity and redundancy of the covariates, the analysis was carried out in three stages. First, body
+Figure 1Plots of LBP disability scores (mean ± SE) changes by soluble factor levels. ( A) Age categories 1 through 5 correspond to values falling in the following ranges in
+years:[18≥and<30),[30≥and<40),[40≥and<50),[50≥and<60)[≥60years).P trend=0.000001.( B)GDF-15levelcategories1through5correspondtovaluesfallinginthe
+following ranges in pg/mL: (<1.70 levels), [1.70≥ and <1.75), [1.75≥ and <1.80), [1.80≥ and <1.85), [≥1.85 levels). P trendbefore adjustment for age and sex p=1.22×10−15,
+afteradjustmentP=0.002.( C)Vaspinlevelcategories1through4correspondtovaluesfallinginthefollowingrangesinpg/mL:(<5.0levels),[5.0≥and<5.9),[5.9≥and<6.9),
+[6.9≥).P trendbeforeadjustmentforageandsexp<0.0001,afteradjustmentP=0.001.( D)Follistatinlevelcategories1through4correspondtovaluesfallinginthefollowing
+ranges inpg/mL:(<4.5levels),[4.5≥and<5.5),[5.5≥ and<6.5),[6.5≥).P trendbeforeadjustmentforageandsexp=3.62×10−8,afteradjustmentp=0.001.Thebestequations
+predicting LBP- disability score were: = −6.2619+6.074*GDF-15; = 3.754+0.148*Vaspin; =2.9657+0.2795*Follistatin.
+Journal of Pain Research 2022:15https://doi.org/10.2147/JPR.S349251
+DovePress219Dovepress Tarabeih et al
+Powered by TCPDF (www.tcpdf.org)
+compositionvariablesandsolublemarkerswereexaminedintwoseparateanalyses,withageandsexincludedineachof
+them. Next, the retained significant covariates in combination with comorbidity, age, and sex were tested.
+Table2clearlyshowsthatbothtestedbodycompositionvariables,WHRandespeciallyECW,werehighlyassociated
+withLBPdisability(p=0.008andp=0.00003,respectively).Theanalysisofsolublefactorsrevealedthatplasmalevels
+of GDF-15, vaspin, and follistatin were significantly and independently ( Table 3) associated with LBP disability scores.
+In both analyses, age and sex were significantly related to LBP disability ( Tables 2and3).
+At the final stage, significant body composition variables and the levels of soluble markers, together with
+comorbidity factors and age and sex were examined ( Table 4). Importantly, all the variables significant in the prior
+analyses(Tables2and3)remainedsignificantalsointhefinalanalysis.Amongthecomorbiditycategories,onlymental
+disorders and combined HLD+HTN+T2DM conditions were significantly associated with LBP disability scores
+(Table 4). Interestingly, if the combined HLD+HTN+T2DM category is not included in the analysis, the betas forTable 1Correlations with, and Analysis of Variance of, LBP Disability Scores
+Covariate r (CI95%) P Pa
+BMI 0.253 (0.196, 0.308) 0.0001 0.005
+WHR 0.244 (0.187, 0.300) 0.0001 0.0001
+FM/W 0.221 (0.163, 0.278) 0.0001 0.007
+SMM/W −0.210 (−0.268,−0.152) 0.0001 0.275
+ICW −0.025 (−0.085, 0.036) 0.422 0.282
+ECW 0.193 (0.134, 0.250) 0.0001 0.0001
+GDF-15 0.353 (0.297, 0.406) 0.0001 0.0001
+Follistatin 0.191 (0.130, 0.250) 0.005 0.001
+Vaspin 0.117 (0.056, 0.178) 0.0001 0.001
+Comorbidity Mean ± standard error ANOVA ANCOVA
+P Pa
+No comorbidity 8.65±0.30 - -
+Mental disorders 14.21±0.99 0.00002 0.0003
+Hyperlipidemia (HLD) 12.92±0.53 0.00001 0.07
+Hypertension (HTN) 13.64±0.61 0.00001 0.04
+Type 2 diabetes mellitus (T2DM) 14.27±0.79 0.00001 0.02
+HLD+HTN+T2DM 17.58±1.05 0.0001 0.00004
+Notes: Pearson correlations (r) were computed for quantitative covariates (upper part of the table) with LBP disability score; ANOVA (and
+ANCOVA, when including age and sex) was used for comparison of individuals with or without comorbid conditions. Correlation coefficients
+(95% confidence interval in parenthesis) and corresponding p-values for all tests are shown prior and after adjustment (a)For age and sex. BMI,
+body mass index; WHR, waist-to-hip ratio; FM/W, fat mass/weight ratio; SMM/W, skeletal muscle mass/weight ratio; ICW, intracellular water,
+ECW, extracellular water; GDF-15, Growth and differentiation factor 15; HLD+HTN+T2DM, individuals who were diagnosed with (HLD)
+hyperlipidemia, HTN (hypertension), and T2DM (type 2 diabetes mellitus) all together.
+Table 2Mixed-Model Linear Regression Analysis of Body Composition Measurements and LBP
+Disability
+Dependent Variable: LBP Disability
+Independent Beta SE T p-value
+Age 0.245 0.035 7.017 4.06×10−12
+Sex 0.182 0.041 4.394 0.00001
+ECW 0.186 0.045 4.140 0.00003
+WHR 0.094 0.035 2.656 0.008
+Model summary: R2= 0.154
+Note: All quantitative variables were standardized prior to statistical analysis.
+Abbreviations : SE, standard error; WHR, waist-to-hip ratio; ECW, extracellular water.
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 220Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+almost all of the other variables increased (a full model is presented in Table S4), likely due to the collinearity of the
+variables.
+Additive Bayesian Network Modelling
+TheinitialsearchforthemaximumnumberofparentsintheABNmodelresultedinamaximumoffourcausalvariables
+foranydependentvariable.TheinitialDAGincluded23arcsandallarcswereretainedafterthesimulationprocessusing
+JAGS. Thefinal DAGis presentedin Figure2. Modelparameter estimates,alongwiththeir corresponding 95% credible
+intervals, are displayed adjoining the corresponding arc in the diagram, which shows a rather complex relationship
+among the tested variables. As seen, not only LBP disability, but the levels of almost all the other variables in the study
+(exceptionvaspinandmentaldisordersonset)weresignificantlydependentonage.Inadditiontoage,themostimportant
+links were the direct connections found between GDF-15 and ECW with LBP disability scores, and between the latter
+andvaspin(all consistentlypositive).Interestingly, theeffectsoffollistatin andmentaldisorders, significantlyassociated
+with LBP disability in regression analysis, appear only indirectly linked through multiple variables. Thus, mental
+disordersweredirectlylinked tohyperlipidemia, whichwas directlylinkedtoT2DM andhypertension. Follistatinlevels
+were also linked to hypertension, which was in turn linked to ECW, while T2DM was directly linked to GDF-15.Table4Mixed-ModelLinearRegressionAnalysisExploringRelationshipsBetweenSignificantCovariatesandLBPDisability
+Dependent Variable: LBP Disability
+Independent Beta SE t P P*
+Age 0.143 0.031 4.625 0.000004 2.65×10−7
+Sex 0.124 0.027 4.456 0.000009 0.000003
+ECW 0.096 0.029 3.215 0.001 0.001
+WHR 0.072 0.028 2.579 0.009 0.006
+GDF-15 0.160 0.028 5.573 2.95×10−81.38×10−9
+Vaspin 0.085 0.023 3.621 0.0003 0.0004
+Follistatin 0.076 0.024 3.153 0.001 0.001
+Mental disorders 0.077 0.023 3.253 0.001 0.0005
+HLD+HTN+T2DM 0.059 0.026 2.281 0.02
+Model summary: R2= 0.190
+Notes: HLD+HTN+T2DM, are defined as binary variable, individuals who were diagnosed with hyperlipidemia, hypertension, and type 2 diabetes mellitus
+accordingly, vs persons without these comorbidities; all quantitativevariables were standardizedprior to statistical analysis. *Model where triad of metabolic
+diseases are excluded from the analysis (parameter estimates of the model are presented in supplementary material, Table S4).
+Abbreviations : SE, standard error; ECW, extracellular water; WHR, waist-to-hip ratio; GDF-15, growth and differentiation factor 15.Table 3Mixed-Model Linear Regression Analysis of Soluble Markers’ Plasma Levels and LBP
+Disability
+Dependent Variable: LBP Disability
+Independent Beta SE T p-value
+Age 0.190 0.035 5.403 8.20×10−8
+Sex 0.082 0.029 2.819 0.004
+GDF-15 0.234 0.035 6.647 4.92×10−11
+Vaspin 0.096 0.028 3.335 0.0008
+Follistatin 0.093 0.029 3.132 0.001
+Model summary: R2= 0.183
+Note: All quantitative variables were standardized prior to statistical analysis.
+Abbreviations : SE, standard error; GDF-15, growth and differentiation factor 15.
+Journal of Pain Research 2022:15https://doi.org/10.2147/JPR.S349251
+DovePress221Dovepress Tarabeih et al
+Powered by TCPDF (www.tcpdf.org)
+Discussion
+As the average lifespan in developed countries continues to increase dramatically,60the burden of chronic, age-
+dependent, degenerative diseases, including LBP-related disability, increases as well. Yet, LBP assessment continues
+to be challenging due to poorly understood etiology and pathogenesis, the absence of effective therapies, and the lack of
+reliable mechanistic biomarkers.61Validation of such biomarkers would allow clinicians to objectively identify bio-
+chemical derangement driving the development or worsening of LBP symptoms and allow for novel, safe, and non-
+analgesic therapies aimed at correcting specific biochemical and metabolic pathways to alleviate pain and improve
+function. Biomarker monitoring would also allow for longitudinal evaluation of the efficacy of modulating therapies.
+The present study in an ethnically and culturally homogenous population suggests a number of intrinsic factors
+independentlyaffecting, or atleast associated with,LBP disabilityseverity ( Table 4). Importantly, someof thesefactors,
+namely ECW and GDF-15 levels, appear as directly causal of disease, while others – follistatin levels and mental
+disorders – probably exert their effect indirectly, contributing to a risk of other comorbidities, such as hypertension,
+hyperlipidemia, and T2DM, which in turn affect ECWand GDF-15 ( Figure 2). These observations, if confirmed, may
+have a critical significance in the understanding of the pathogenesis of LBP-associated disability and the strategy of
+medicaltreatment.Althoughanetworkanalysisasthepresentonehasnotbeendonepreviously,severalaspectsofthese
+results could be confirmed by the published data. Despite the obviously dominating role of aging, a significant and
+independent association of LBP disability with mental disorders is in line with previous findings.62–65For example,
+a 50% prevalence of chronic pain (including LBP) has been observed in patients whose primary diagnosis is
+depression.66It also has been found that the rate of major depression is increased in a linear fashion with chronic
+back pain severity, and that the combination of chronic back pain and depression was associated with greater disability
+than either depression or chronic back pain alone.67Moreover, chronic LBP is found to be a strong predictor of
+Figure 2Path diagram (Bayesian network modelling, ABN) exploring complex relationships between LBP-disability, age and significantly associated covariates. Directed
+acyclic graph among study measures. Binary variables appear in rectangles and continuous variables in ovals. All quantitative variables were standardized prior to analysis.
+Coefficients on the arcs (paths) between “parents” (independent variables) and “children” (dependent variables) are the modes obtained from the posterior distributions
+resulting from the Bayesian modeling, with the corresponding 95% credible intervals presented below in parentheses. These coefficients are analogous to regression
+coefficients from logistic or multiple regression models, depending on variables examined. Red arrows denote direct influences on LBP and blue arrows indicate direct
+influences on the other variables.

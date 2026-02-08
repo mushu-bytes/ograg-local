@@ -1,0 +1,64 @@
+{
+  "@graph": [
+    {
+      "@type": "Sex",
+      "name": "Age",
+      "description": "Age of the individual"
+    },
+    {
+      "@type": "PEG",
+      "name": "GDF-15",
+      "description": "Plasma levels of Growth and differentiation factor 15 (GDF-15)"
+    },
+    {
+      "@type": "SleepDisturbance",
+      "name": "Vaspin",
+      "description": "Plasma levels of visceral adipose tissue-derived serine protease inhibitor (vaspin)"
+    },
+    {
+      "@type": "Depression",
+      "name": "Follistatin",
+      "description": "Plasma levels of follistatin"
+    },
+    {
+      "@type": "Anxiety",
+      "name": "Mental disorders",
+      "description": "Comorbid mental disorders, such as depression and schizophrenia"
+    },
+    {
+      "@type": "Obesity",
+      "name": "metabolic comorbidities",
+      "description": "Comorbid metabolic conditions, such as obesity, type-2 diabetes (T2DM), hyperlipidemia, and hypertension"
+    },
+    {
+      "@type": "Alcohol",
+      "name": "excessive weight",
+      "description": "Excessive body weight"
+    },
+    {
+      "@type": "FearAvoidance",
+      "name": "waist-to-hip ratio (WHR)",
+      "description": "Ratios of waist circumference to hip circumference"
+    },
+    {
+      "@type": "Catastrophizing",
+      "name": "Education",
+      "description": "Level of education"
+    },
+    {
+      "@type": "CCI",
+      "name": "FinancialLevel",
+      "description": "Individual financial level"
+    },
+    {
+      "@type": "Age",
+      "name": "LBP disability",
+      "description": "Disability caused by low back pain"
+    },
+    {
+      "@type": "Smoking",
+      "name": "Smoking",
+      "description": "Smoking habit of the individual"
+    }
+  ]
+}

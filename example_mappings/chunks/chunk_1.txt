@@ -1,0 +1,269 @@
+Directed
+acyclic graph among study measures. Binary variables appear in rectangles and continuous variables in ovals. All quantitative variables were standardized prior to analysis.
+Coefficients on the arcs (paths) between “parents” (independent variables) and “children” (dependent variables) are the modes obtained from the posterior distributions
+resulting from the Bayesian modeling, with the corresponding 95% credible intervals presented below in parentheses. These coefficients are analogous to regression
+coefficients from logistic or multiple regression models, depending on variables examined. Red arrows denote direct influences on LBP and blue arrows indicate direct
+influences on the other variables.
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 222Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+depression severity and vice versa.68,69Collectively, these observations suggest the existence of a bidirectional relation-
+ship between the presence and severity of LBP and mental disorders.
+Our network analysis suggests that the effect of mental illness on LBP disability is likely indirect and mediated via,
+and supported by, hyperlipidemia, hypertension, and T2DM. Although causal relationships between these conditions
+remain unproven, genetic analyses, including Mendelian randomization, have indicated that obesity could be a casual
+factor for depression,70,71hypertension,72T2DM,73,74and LBP.75Longitudinal studies revealed that about half of obese
+individuals were likely to develop depression and vice versa.76In addition, antidepressants and most antipsychotics are
+foundtoinduceweightgain.70,77Obesitymeasures,especiallyanthropometricalmeasurements,eg,BMIandWHR,have
+been repeatedly associated with LBP.78However, these associations have been questioned,79and lack detailed
+investigations,80in particular for ECW levels. Our univariate multiple regression analysis showed that both WHR, and
+ECWadjusted for age and sex, were significantly associated with LBP-disability scores.
+ChangesinECWosmolarityoccurinvariousdisturbedhemodynamicconditions,includinghypertension.81However,
+the role of ECW in LBP pathogenesis is not understood. Nevertheless, water leakage from the nucleus pulposus of the
+intervertebral disc was found to be associated with enhanced production of some pro-inflammatory cytokines and
+activationofproteases,thusleadingtoextracellularmatrixdamageandpainsensitizationthatcharacterizesintervertebral
+disc degradation andLBP.82In the present study, ECW showed highly significant and independent association withLBP
+disability scores, suggesting that ECW levels might serve as an important and relevant biomarker for LBP-related
+disability, while their prognostic significance demands to be studied. Our network analysis suggests that ECW levels
+directly regulate WHR, which affects LBP via T2DM ( Figure 2). Existing evidence suggests that WHR is a predictor of
+T2DM,83and T2DM patients with a high WHR were more likely to be hypertensive as compared to those with normal
+WHR.84Recent studies demonstrated that GDF-15 is a key regulator of body weight in animals, mainly through
+suppression of food intake and is also linked to inflammation,24,28,85cardiovascular disease,86and metabolic and mental
+disorders.27,29,30These and other studies suggest the protective role of GDF-15 in various disorders. It is therefore
+plausible to assume that elevated GDF-15 blood levels observed in our study may represent a component of a similar
+adaptive/protective response to LBP-induced inflammation acting as a mediator of tissue tolerance.87
+We also found a significant and independent correlation of plasma follistatin and vaspin levels with LBP disability.
+Elevated circulating levels of follistatin are observed in obese patients with T2DM accompanied by insulin
+resistance.41,88Follistatin was shown to ameliorate fibrosis and improve kidney function in chronic kidney disease,89
+suggesting its application in disorders accompanied by elevated blood pressure, such as chronic kidney disease, obesity,
+and T2DM.90In our ABN analysis, elevated follistatin plasma levels contribute to hypertension development, which
+affects ECW levels, and thus indirectly correlates with LBP disability ( Figure 2). However, whether this pathway is
+protectiveordetrimentalremainsunclear.Asimilarsituationisfoundwiththecirculatingvaspin.Recentdatareportedits
+possibleprotectiveroleinvariousharmful,mainlyinflammatoryconditions,91–93suggestingthatvaspin’selevatedlevels
+may reflect its protective role in LBP. As for GDF-15 and ECW, longitudinal studies are necessary to define whether
+follistatin and vaspin could serve as novel therapeutic targets for prevention and/or treatment of LBP.
+The case-control cross-sectional study design introduces some important limitations, as it restricts drawing conclu-
+sions about the causality of the associations found. Obviously, longitudinal studies are required to better evaluate the
+casual or predictive nature of the variables studied. Moreover, intervertebral disk specimens for measurement of LBP
+biomarkerswouldbepreferable,butnotrealisticallyobtainableingeneralpopulationstudies.However,determinationof
+serum/plasmaconcentrationsofseveralcytokinesandothersolublemoleculeshasbeenusedsuccessfullyformonitoring
+the initiation, intensity, and progression of human LBP,25,26,94–96and our data are in agreement with these results. There
+ispotentialforresidualconfoundingthatweunfortunatelycannotaddress.Forexample,lifestylevariablessuchasstress,
+physical activity, food intake, sleep duration, and quality of life were not collected. In addition, a family-based
+community study includes the affected and non-affected (control) individuals as members of the same families, which
+can introduce bias caused by non-independence of the studied individuals. To overcome this problem, we implemented
+mixedmultipleregressionmodelswithaflexiblekinshipcovariancestructuretoaddressthispotentialconcern.However,
+thissamplecompositionhasalsosomeadvantages,asitdecreasesbothenvironmentalandgeneticheterogeneitybetween
+the case and control individuals, and thus indirectly increases the power of analysis.
+Journal of Pain Research 2022:15https://doi.org/10.2147/JPR.S349251
+DovePress223Dovepress Tarabeih et al
+Powered by TCPDF (www.tcpdf.org)
+Conclusion
+This is the first study providing evidence that LBP disability is significantly and independently associated with
+circulating levels of multiple biochemical factors and body composition parameters and is aggravated by mental
+disorders and metabolic comorbidities. These associations, however, are complex and can be hierarchical, as illustrated
+by the ABN analysis. The data obtained indicate that chronic LBP-disabled patients display systemically impaired,
+inflammation-related, profiles (elevated plasma levels of GDF-15, follistatin and vaspin) that presumably affect or are
+affected by ECWand obesity (WHR), in concert with mental disorders (mainly, depression) and T2DM, hypertension,
+and hyperlipidemia. This also suggests that assessing multiple pathways is necessary to characterize LBP disability,
+hopefully convincing clinicians to include this complex evaluation for LBP patients. An additional clinically important
+point is the finding that GDF-15, follistatin, and vaspin plasma levels, as well as ECW and WHR, exhibited large
+differences between non-LBP and LBP disability groups. While each of these biomarkers reflects pathways that can
+impact the perception, development, and/or worsening of LBP, they are also linked to mental disorders and metabolic
+comorbidities.Thisprovidesamechanisticinsightintothepotentialroleofderangedinflammatory-associatedfactorsand
+mentalandmetabolicstatusinLBPdisability.Moreover,disturbedbiochemicalandbodycompositioncharacteristicscan
+be corrected with appropriate low-cost therapies and supplementation, thus potentially avoiding analgesic (opioid)
+medications in severe LBP disability. The present results and suggestions highlight the need for larger longitudinal
+studies to better determine the causal relationships between LBP disability and studied parameters.
+Ethical Approval
+This study was conducted in accordance with the Declaration of Helsinki.
+Acknowledgments
+Research submitted by Nader Tarabeih, in partial fulfillment of the requirements for a PhD degree in Anatomy and
+Anthropology, Sackler Faculty of Medicine, Tel Aviv University. The authors thank Dr. Ida Malkin for the discussion
+concerning the statistical analysis of the data, and Dr. Svetlana Trofimov for laboratory technical assistance.
+Author Contributions
+All authors made a significant contribution to the work reported, whether that is in the conception, study design,
+execution,acquisitionofdata,analysis andinterpretation,orin alltheseareas;tookpart in drafting,revising orcritically
+reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article
+has been submitted; and agree to be accountable for all aspects of the work.
+Funding
+This research was funded by the Israel Science Foundation, grant number 2054/19, and also supported by Ariel
+University Research & Development Department, grant number RA2000000457.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1.Blyth FM, Noguchi N. Chronic musculoskeletal pain and its impact on older people. Best Pract Res Clin Rheumatol .2017;31(2):160–168.
+doi:10.1016/J.BERH.2017.10.004
+2.McBeth J, Jones K. Epidemiology of chronic musculoskeletal pain. Best Pract Res Clin Rheumatol .2007;21(3):403–425. doi:10.1016/J.
+BERH.2007.03.003
+3.Briggs AM, Woolf AD, Dreinhöfer K, et al. Reducing the global burden of musculoskeletal conditions. Bull World Health Organ .2018;96
+(5):366–368. doi:10.2471/BLT.17.204891
+4.FosterNE,AnemaJR,CherkinD,etal.Preventionandtreatmentoflowbackpain:evidence,challenges,andpromisingdirections. Lancet (London,
+England).2018;391(10137):2368–2383. doi:10.1016/S0140-6736(18)30489-6
+5.WuA,MarchL,ZhengX.Globallowbackpainprevalenceandyearslivedwithdisabilityfrom1990to2017:estimatesfromtheGlobalBurdenof
+Disease Study 2017. Ann Transl Med .2020;8(6):299. doi:10.21037/ATM.2020.02.175
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 224Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+6.Birgenheir DG, Ilgen MA, Bohnert ASB, et al. Pain conditions among veterans with schizophrenia or bipolar disorder. Gen Hosp Psychiatr .
+2013;35(5):480–484. doi:10.1016/j.genhosppsych.2013.03.019
+7.de Almeida JG, Braga PE, Neto FL, de Pimenta CAM. Chronic pain and quality of life in schizophrenic patients. Rev Bras Psiquiatr .2013;35
+(1):13–20. doi:10.1016/j.rbp.2011.11.003
+8.Baek JH, Kim YS, Yi KH. Relationship between comorbid health problems and musculoskeletal disorders resulting in musculoskeletal complaints
+and musculoskeletal sickness absence among employees in Korea. Saf Health Work .2015;6(2):128–133. doi:10.1016/j.shaw.2015.03.002
+9.Amin NA, Quek KF, Oxley JA, Noah R, Nordin R. Emotional distress as a predictor of work-related musculoskeletal disorders in Malaysian
+nursing professionals. Int J Occup Environ Med .2018;9(2):69–78. doi:10.15171/ijoem.2018.1158
+10.Demyttenaere K, Bruffaerts R, Lee S, et al. Mental disorders among persons with chronic back or neck pain: results from the world mental health
+surveys. Pain.2007;129(3):332–342. doi:10.1016/j.pain.2007.01.022
+11.Sullivan MJL, Reesor K, Mikail S, Fisher R. The treatment of depression in chronic low back pain: review and recommendations. Pain.1992;50
+(1):5–13. doi:10.1016/0304-3959(92)90107-M
+12.SteffenA,NübelJ,JacobiF,BätzingJ,HolstiegeJ.Mentalandsomaticcomorbidityofdepression:acomprehensivecross-sectionalanalysisof202
+diagnosis groups using German nationwide ambulatory claims data. BMC Psychiatr .2020;20(1). doi:10.1186/s12888-020-02546-8
+13.Penninx BW, Lange SMM. Metabolic syndrome in psychiatric patients: overview, mechanisms, and implications. Dialogues Clin Neurosci .
+2018;20(1):63–73. doi:10.31887/dcns.2018.20.1/bpenninx
+14.IsHak WW, Wen RY, Naghdechi L, et al. Pain and depression: a systematic review. Harv Rev Psychiatr .2018;26(6):352–363. doi:10.1097/
+HRP.0000000000000198
+15.Penninx BW. Depression and cardiovascular disease: epidemiological evidence on their linking mechanisms. Neurosci Biobehav Rev .2017;74(Pt
+B):277–286. doi:10.1016/j.neubiorev.2016.07.003
+16.Leboeuf-Yde C. Bodyweight and low backpain.A systematicliterature reviewof 56 journal articlesreportingon 65 epidemiologicstudies. Spine
+(Phila Pa 1976) .2000;25(2):226–237. doi:10.1097/00007632-200001150-00015
+17.Bekhuis E, Boschloo L, Rosmalen JGM, Schoevers RA. Differential associations of specific depressive and anxiety disorders with somatic
+symptoms. J Psychosom Res .2015;78(2):116–122. doi:10.1016/j.jpsychores.2014.11.007
+18.Roest AM, de Jonge P. The heart of the matter: in search of causal effects of depression on somatic diseases. BMC Med.2018;16(1). doi:10.1186/
+s12916-018-1144-1
+19.Brady SRE, UrquhartDM, Hussain SM, etal. High baselinefat mass,butnotlean tissue mass,is associated with highintensity low backpain and
+disability in community-based adults. Arthritis Res Ther .2019;21(1):165. doi:10.1186/s13075-019-1953-4
+20.Zhang -T-T, Liu Z, Liu Y-L, Zhao -J-J, Liu D-W, Tian Q-B. Obesity as a risk factor for low back pain: a meta-analysis. Clin Spine Surg .2018;31
+(1):22–27. doi:10.1097/BSD.0000000000000468
+21.OkamotoCS,DunnAS,GreenBN,FormoloLR,ChicoineD.Correlationofbodycompositionandlowbackpainseverityinacross-sectionofUS
+veterans. J Manipulative Physiol Ther .2017;40(5):358–364. doi:10.1016/j.jmpt.2017.03.003
+22.Khan AN, Jacobsen HE, Khan J, et al. Inflammatory biomarkers of low back pain and disc degeneration: a review. Ann N Y Acad Sci .
+2017;1410:68–84. doi:10.1111/nyas.13551
+23.van den Berg R, Jongbloed EM, de Schepper EIT, Bierma-Zeinstra SMA, Koes BW, Luijsterburg PAJ. The association between pro-inflammatory
+biomarkers and nonspecific low back pain: a systematic review. Spine J.2018;18(11):2140–2151. doi:10.1016/j.spinee.2018.06.349
+24.Wischhusen J, Melero I, Fridman WH. Growth/differentiation factor-15 (GDF-15): from biomarker to novel targetable immune checkpoint. Front
+Immunol.2020;11. doi:10.3389/fimmu.2020.00951
+25.Tarabeih N, Shalata A, Trofimov S, Kalinkovich A, Livshits G. Growth and differentiation factor 15 is a biomarker for low back pain-associated
+disability. Cytokine.2019;117:8–14. doi:10.1016/j.cyto.2019.01.011
+26.Tarabeih N, Kalinkovich A, Shalata A, Livshits G. Circulating levels of visceral adipose tissue-derived serine protease inhibitor (vaspin) appear as
+a marker of musculoskeletal pain disability. Diagnostics .2020;10(10):797. doi:10.3390/diagnostics10100797
+27.Hale C, Véniant MM. Growth differentiation factor 15 as a potential therapeutic for treating obesity. Mol Metab .2020;46:101117. doi:10.1016/j.
+molmet.2020.101117
+28.Desmedt S, Desmedt V, De Vos L, Delanghe JR, Speeckaert R, Speeckaert MM. Growth differentiation factor 15: a novel biomarker with high
+clinical potential. Crit Rev Clin Lab Sci .2019;56(5):333–350. doi:10.1080/10408363.2019.1615034
+29.Frye MA, Nassan M, Jenkins GD, et al. Feasibility of investigating differential proteomic expression in depression: implications for biomarker
+development in mood disorders. Transl Psychiatr .2015;5(12):e689–e689. doi:10.1038/tp.2015.185
+30.Maetzler W, Deleersnijder W, Hanssens V, et al. GDF15/MIC1 and MMP9 cerebrospinal fluid levels in Parkinson’s disease and Lewy body
+dementia. PLoS One.2016;11(3):e0149349. doi:10.1371/journal.pone.0149349
+31.Yang F, Barbosa IG, Vieira EL, Bauer ME, Rocha NP, Teixeira AL. Further evidence of accelerated aging in bipolar disorder: focus on GDF-15.
+Transl Neurosci .2018;9(1):17–21. doi:10.1515/tnsci-2018-0004
+32.Lin Y, Zhuang J, Li H, et al. Vaspin attenuates the progression of atherosclerosis by inhibiting ER stress-induced macrophage apoptosis in apoE-/-
+mice.Mol Med Rep .2016;13(2):1509–1516. doi:10.3892/mmr.2015.4708
+33.Nicholson T, Church C, Tsintzas K, et al. Vaspin promotes insulin sensitivity in elderly muscle and is upregulated in obesity. J Endocrinol .
+2019;241(1):31–43. doi:10.1530/JOE-18-0528
+34.Feng R, Li Y, Wang C, et al. Higher vaspin levels in subjects with obesity and type 2 diabetes mellitus: a meta-analysis. Diabetes Res Clin Pract .
+2014;106(1):88–94. doi:10.1016/j.diabres.2014.07.026
+35.Pervin S, Nyah W, Reddy S, Singh R. Novel aspects of follistatin/transforming growth factor-β (TGF-β) signaling in adipose tissue metabolism:
+implications in metabolic health. In Adipose Tissue - an Update . IntechOpen; 2019. doi10.5772/intechopen.88294
+36.Han X, Møller LLV, De Groote E, et al. Mechanisms involved in follistatin-induced hypertrophy and increased insulin action in skeletal muscle.
+J Cachexia Sarcopenia Muscle .2019;10(6):1241–1257. doi:10.1002/jcsm.12474
+37.Canalis E, Economides AN, Gazzerro E. Bone morphogenetic proteins, their antagonists, and the skeleton. Endocr Rev .2003;24(2):218–235.
+doi:10.1210/er.2002-0023
+Journal of Pain Research 2022:15https://doi.org/10.2147/JPR.S349251
+DovePress225Dovepress Tarabeih et al
+Powered by TCPDF (www.tcpdf.org)
+38.May RD, Frauchiger DA, Albers CE, et al. Application of cytokines of the bone morphogenetic protein (BMP) family in spinal fusion - effects on
+the bone, intervertebral disc and mesenchymal stromal cells. Curr Stem Cell Res Ther .2019;14(8):618–643. doi:10.2174/
+1574888x14666190628103528
+39.Singh R, Braga M, Pervin S. Regulation of brown adipocyte metabolism by myostatin/follistatin signaling. Front Cell Dev Biol .2014;2.
+doi:10.3389/fcell.2014.00060
+40.Pervin S, Singh V, Tucker A, Collazo J, Singh R. Modulation of transforming growth factor-β/follistatin signaling and white adipose browning:
+therapeutic implications for obesity related disorders. Horm Mol Biol Clin Investig .2017;31(2). doi:10.1515/hmbci-2017-0036
+41.Perakakis N, Kokkinos A, Peradze N, et al. Follistatins in glucose regulation in healthy and obese individuals. Diabetes Obes Metab .2019;21
+(3):683–690. doi:10.1111/dom.13572
+42.Chiarotto A, Maxwell LJ, Terwee CB, Wells GA, Tugwell P, Ostelo RW. Roland-Morris disability questionnaire and Oswestry disability index:
+which has better measurement properties for measuring physical functioning in nonspecific low back pain? Systematic review and meta-analysis.
+Phys Ther.2016;96(10):1620–1637. doi:10.2522/ptj.20150420
+43.Smeets R, Köke A, Lin CW, Ferreira M, Demoulin C. Measures of function in low back pain/disorders: Low Back Pain Rating Scale (LBPRS),
+Oswestry Disability Index (ODI), Progressive Isoinertial Lifting Evaluation (PILE), Quebec Back Pain Disability Scale (QBPDS), and
+Roland-Morris Disability Questionnaire (RDQ). Arthritis Care Res .2011;63(SUPPL. 11). doi:10.1002/acr.20542
+44.Ko S, Chae S. Correlations between the SF-36, the Oswestry-disability index and Roland-Morris disability questionnaire in patients undergoing
+lumbar decompression according to types of spine origin pain. Clin Spine Surg .2017;30(6):E804–E808. doi:10.1097/BSD.0000000000000438
+45.Roland M, Fairbank J. The Roland-Morris disability questionnaire and the Oswestry disability questionnaire. Spine (Phila Pa 1976) .2000;25
+(24):3115–3124. doi:10.1097/00007632-200012150-00006
+46.Maki D, Rajab E, Watson PJ, Critchley DJ. Cross-cultural translation, adaptation, and psychometric testing of the Roland-Morris disability
+questionnaire into modern standard Arabic. Spine (Phila Pa 1976) .2014;39(25):E1537–E1544. doi:10.1097/BRS.0000000000000632
+47.Achamrah N, Colange G, Delay J, et al. Comparison of body composition assessment by DXA and BIA according to the body mass index:
+a retrospective study on 3655 measures. PLoS One.2018;13(7):e0200465. doi:10.1371/journal.pone.0200465
+48.Kyle UG, Bosaeus I, De Lorenzo AD, et al. Bioelectrical impedance analysis–part I: review of principles and methods. Clin Nutr.2004;23
+(5):1226–1243. doi:10.1016/J.CLNU.2004.06.004
+49.IizukaY,IizukaH,MiedaT,etal.Associationbetweenneckandshoulderpain,backpain,lowbackpainandbodycompositionparametersamong
+the Japanese general population. BMC Musculoskelet Disord .2015;16(1):333. doi:10.1186/s12891-015-0759-z
+50.McManus ML, Churchwell KB, Strange K, Epstein FH. Regulationof cell volume in health and disease. N Engl J Med .1995;333(19):1260–1266.
+doi:10.1056/NEJM199511093331906
+51.Ziyatdinov A, Vázquez-Santiago M, Brunel H, Martinez-Perez A, Aschard H, Soria JM. lme4qtl: linear mixed models with flexible covariance
+structure for genetic studies of related individuals. BMC Bioinform .2018;19(1):68. doi:10.1186/s12859-018-2057-x
+52.(PDF) Package Kinship 2.Available from: https://cran.r-project.org/web/packages/kinship2/kinship2.pdf . Accessed February 27, 2021.
+53.KratzerG,LewisFI,CominA,PittavinoM,FurrerR.AdditiveBayesiannetworkmodellingwiththeRpackageAbn.Availablefrom: https://cran.
+r-project.org/package=abn . Accessed January 22, 2021.
+54.Lewis FI, Ward MP. Improving epidemiologic data analyses through multivariate regression modelling. Emerg Themes Epidemiol .2013;10(1):4.
+doi:10.1186/1742-7622-10-4
+55.(PDF) abn: an R package for modelling multivariate data using additive Bayesian networks. Available from: https://www.researchgate.net/
+publication/303371852_abn_an_R_package_for_modelling_multivariate_data_using_additive_Bayesian_networks . Accessed January 22, 2021.
+56.Hornik K, Leisch F, Zeileis A, Plummer M. JAGS: a program for analysis of bayesian graphical models using Gibbs sampling. Available from:
+http://www.ci.tuwien.ac.at/Conferences/DSC-2003/ . Accessed January 22, 2021.
+57.Cherny SS, Nevo D, Baraz A, et al. Revealing antibiotic cross-resistance patterns in hospitalized patients through Bayesian network modelling.
+J Antimicrob Chemother .2021;76(1):239–248. doi:10.1093/JAC/DKAA408
+58.Hidano A, Yamamoto T, Hayama Y, et al. Unraveling antimicrobial resistance genes and phenotype patterns among enterococcus faecalis isolated
+from retail chicken products in Japan. PLoS One.2015;10(3):e0121189. doi:10.1371/journal.pone.0121189
+59.Lewis FI, McCormick BJJ. Revealing the complexity of health determinants in resource-poor settings. Am J Epidemiol .2012;176(11):1051–1059.
+doi:10.1093/aje/kws183
+60.AburtoJM,vanRaalteA.Lifespandispersionintimesoflifeexpectancyfluctuation:thecaseofCentralandEasternEurope. Demography .2018;55
+(6):2071–2096. doi:10.1007/S13524-018-0729-9
+61.Hartvigsen J, Hancock MJ, Kongsted A, et al. What low back pain is and why we need to pay attention. Lancet (London, England) .2018;391
+(10137):2356–2367. doi:10.1016/S0140-6736(18)30480-X
+62.Park S-M, Kim H-J, Jang S, et al. Depression is closely associated with chronic low back pain in patients over 50 years of age. Spine (Phila Pa
+1976).2018;43(18):1281–1288. doi:10.1097/BRS.0000000000002595
+63.Tsuji T, Matsudaira K, Sato H, Vietri J. The impact of depression among chronic low back pain patients in Japan. BMC Musculoskelet Disord .
+2016;17(1):1–9. doi:10.1186/s12891-016-1304-4
+64.Robertson D, Kumbhare D, Nolet P, Srbely J, Newton G. Associations between low back pain and depression and somatization in a Canadian
+emerging adult population. J Can Chiropr Assoc .2017;61(2):96–105.
+65.Ranger TA, Cicuttini FM, Jensen TS, Manniche C, Heritier S, Urquhart DM. Catastrophization, fear of movement, anxiety, and depression are
+associated with persistent, severe low back pain and disability. Spine J.2020;20(6):857–865. doi:10.1016/j.spinee.2020.02.002
+66.Crofford LJ. Psychological aspects of chronic musculoskeletal pain. Best Pract Res Clin Rheumatol .2015;29(1):147–155. doi:10.1016/j.
+berh.2015.04.027
+67.Currie SR, Wang JL. Chronic back pain and major depression in the general Canadian population. Pain.2004;107(1–2):54–60. doi:10.1016/j.
+pain.2003.09.015
+68.Kroenke K, Wu J, Bair MJ, Krebs EE, DamushTM, TuW.Reciprocal relationshipbetween pain and depression: a 12-month longitudinal analysis
+in primary care. J Pain.2011;12(9):964–973. doi:10.1016/j.jpain.2011.03.003
+69.Pinheiro MB, Ferreira ML, Refshauge K, et al. Symptoms of depression as a prognostic factor for low back pain: a systematic review. Spine J.
+2016;16(1):105–116. doi:10.1016/j.spinee.2015.10.037
+https://doi.org/10.2147/JPR.S349251
+DovePressJournal of Pain Research 2022:15 226Tarabeih et al Dovepress
+Powered by TCPDF (www.tcpdf.org)
+70.Woo YS, Seo HJ, McIntyre RS, Bahk WM. Obesity and its potential effects on antidepressant treatment outcomes in patients with depressive
+disorders: a literature review. Int J Mol Sci .2016;17(1):80. doi:10.3390/ijms17010080
+71.Tyrrell J, Mulugeta A, Wood AR, et al. Using genetics to understand the causal influence of higher BMI on depression. Int J Epidemiol .2019;48
+(3):834–848. doi:10.1093/ije/dyy223
+72.Lee MR, Lim YH, Hong YC. Causal association of body mass index with hypertension using a Mendelian randomization design. Med (United
+States).2018;97(30). doi:10.1097/MD.0000000000011252
+73.Bellou V, Belbasis L, Tzoulaki I, Evangelou E, Nerurkar PV. Risk factors for type 2 diabetes mellitus: an exposure-wide umbrella review of
+meta-analyses. PLoS One.2018;13(3):e0194127. doi:10.1371/journal.pone.0194127
+74.Yuan S, Larsson SC. An atlas on risk factors for type 2 diabetes: a wide-angled Mendelian randomisation study. Diabetologia .2020;63
+(11):2359–2371. doi:10.1007/s00125-020-05253-x
+75.ElgaevaEE,TsepilovY,FreidinMB,WilliamsFMK,AulchenkoY,SuriP.ISSLSPrizeinClinicalScience2020.Examiningcausaleffectsofbody
+mass index on back pain: a Mendelian randomization study. Eur Spine J .2020;29(4):686–691. doi:10.1007/s00586-019-06224-6
+76.LuppinoFS,DeWitLM,BouvyPF,etal.Overweight,obesity,anddepression:asystematicreviewandmeta-analysisoflongitudinalstudies. Arch
+Gen Psychiatr .2010;67(3):220–229. doi:10.1001/archgenpsychiatry.2010.2
+77.Lee SH, Paz-Filho G, Mastronardi C, Licinio J, Wong ML. Is increased antidepressant exposure a contributory factor to the obesity pandemic?
+Transl Psychiatr .2016;6(3):e759–e759. doi:10.1038/tp.2016.25
+78.LivshitsG,PophamM,MalkinI,etal.Lumbardiscdegenerationandgeneticfactorsarethemainriskfactorsforlowbackpaininwomen:theUK
+Twin Spine Study. Ann Rheum Dis .2011;70(10):1740–1745. doi:10.1136/ARD.2010.137836
+79.AbadiFH,SankaravelM,ZainuddinFF,ElumalaiG,RazliAI.Theeffectofaquaticexerciseprogramonlow-backpaindisabilityinobesewomen.
+J Exerc Rehabil .2019;15(6):855–860. doi:10.12965/jer.1938688.344
+80.Dario AB, Ferreira ML, Refshauge KM, Lima TS, Ordoñana JR, Ferreira PH. The relationship between obesity, low back pain, and lumbar disc
+degenerationwhengeneticsandtheenvironmentareconsidered:asystematicreviewoftwinstudies. Spine J.2015;15(5):1106–1117.doi:10.1016/j.
+spinee.2015.02.001
+81.Tarazi RC. Hemodynamic role of extracellular fluid in hypertension. Circ Res.1976;38(6sup2):72–83. doi:10.1161/01.res.38.6.73
+82.Vergroesen -P-PA, Kingma I, Emanuel KS, et al. Mechanics and biology in intervertebral disc degeneration: a vicious circle. Osteoarthr Cartil .
+2015;23(7):1057–1070.
