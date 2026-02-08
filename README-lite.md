@@ -1,15 +1,24 @@
-# OG-RAG Lite
+# CAI Submission
 
-This README describes the modifications required for OG-RAG to run on a separate endpoint outside of Azure, Openai, etc.
+In this README, the main changes added to the upstream repository for the submission to IEEE CAI are listed.
 
-## Modifications
+## Configs:
 
+backpain_configs/ contains all configs necessary to run all experimental controls (CLBP, SCI, with and without descriptions, etc).
 
-## Directory Structure
-- evaluation:
-    - answers: old OG-RAG predictions
-    - answers2: contains raw OG-RAG predictions
-    - predictions: contains processed OG-RAG predictions (required for running RAGAS)
-        - for processing answers into predictions, run the following:
-            - python compile_answers.py --answers answers2/low_level_ontology.json --output predictions/low_level_ontology.csv
-            - python compile_answers.py --answers answers2/high_level_ontology.json --output predictions/high_level_ontology.csv
+## Descriptions:
+
+backpain_data_upgraded_ontology/ontological_definitions.json contains descriptions for each variable used for the CLBP dataset.
+
+## Ontologies:
+
+backpain_data_upgraded_ontology/ontology contains all ontologies used for all experimental controls.
+
+## Pydantic Models:
+
+models/ contains pydantic models used to constrain the local llms to generate structured output, using outlines.
+
+## Evaluation
+
+evaluation/ contains RAGAS evaluation scripts and datasets, such as the SCI and CLBP questions.
+

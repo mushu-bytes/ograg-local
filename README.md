@@ -1,8 +1,8 @@
 # SCI-LLM-PROJECT README
 
-This repo contains a fork of ![OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://github.com/microsoft/ograg2). If turning to public, then this Repo must be registered as a fork.
+This repo contains a fork of ![OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://github.com/microsoft/ograg2).
 
-This repo contains a modified version of OG-RAG such that the method can be run using local LLMs.
+This repo contains a modified version of OG-RAG such that the method can be run using local LLMs. This repo was designed to contain the code contributions behind our submission to IEEE CAI 2026.
 
 Below is the original README
 
