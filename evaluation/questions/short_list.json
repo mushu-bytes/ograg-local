@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  }
+]

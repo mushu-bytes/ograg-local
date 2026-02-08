@@ -1,0 +1,202 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "clbp": "http://chronic-lower-back-pain.org/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "Variable": {
+            "@id": "clbp:Variable",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Sex": {
+            "@id": "clbp:Sex",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "PEG": {
+            "@id": "clbp:PEG",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "SleepDisturbance": {
+            "@id": "clbp:SleepDisturbance",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Depression": {
+            "@id": "clbp:Depression",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Anxiety": {
+            "@id": "clbp:Anxiety",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Obesity": {
+            "@id": "clbp:Obesity",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Alcohol": {
+            "@id": "clbp:Alcohol",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "FearAvoidance": {
+            "@id": "clbp:FearAvoidance",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Catastrophizing": {
+            "@id": "clbp:Catastrophizing",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "CCI": {
+            "@id": "clbp:CCI",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Education": {
+            "@id": "clbp:Education",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "FinancialLevel": {
+            "@id": "clbp:FinancialLevel",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Age": {
+            "@id": "clbp:Age",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        },
+        "Smoking": {
+            "@id": "clbp:Smoking",
+            "rdfs:subClassOf": "clbp:Variable",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        }
+    }
+}

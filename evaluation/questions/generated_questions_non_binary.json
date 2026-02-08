@@ -1,0 +1,437 @@
+[
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Sleep disturbance may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Sleep disturbance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. "
+  }
+]

@@ -1,0 +1,292 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "sci": "http://spinal-cord-injury.org/",
+        "Mobility": {
+            "@id": "sci:Mobility",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "AutonomicHealth": {
+            "@id": "sci:AutonomicHealth",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Pediatrics": {
+            "@id": "sci:Pediatrics",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Women": {
+            "@id": "sci:Women",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Other": {
+            "@id": "sci:Other",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "MentalHealth": {
+            "@id": "sci:MentalHealth",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Lifestyle": {
+            "@id": "sci:Lifestyle",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "LifeWithSCI": {
+            "@id": "sci:LifeWithSCI",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Aging": {
+            "@id": "sci:Aging",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SexualHealth": {
+            "@id": "sci:SexualHealth",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "NutritionAndWellness": {
+            "@id": "sci:NutritionAndWellness",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SportsRecreationAndFitness": {
+            "@id": "sci:SportsRecreationAndFitness",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "ToolsAndTechnology": {
+            "@id": "sci:ToolsAndTechnology",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "HomeModificationsAndAdaptiveEquipment": {
+            "@id": "sci:HomeModificationsAndAdaptiveEquipment",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "MobilityEquipment": {
+            "@id": "sci:MobilityEquipment",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "AdaptiveDriving": {
+            "@id": "sci:AdaptiveDriving",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Advocacy": {
+            "@id": "sci:Advocacy",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Caregiver": {
+            "@id": "sci:Caregiver",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SupportNetwork": {
+            "@id": "sci:SupportNetwork",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "AlternativeRehabilitationServices": {
+            "@id": "sci:AlternativeRehabilitationServices",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "ParentingWithSCI": {
+            "@id": "sci:ParentingWithSCI",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "FinancesEmployment": {
+            "@id": "sci:FinancesEmployment",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Relationships": {
+            "@id": "sci:Relationships",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Travel": {
+            "@id": "sci:Travel",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SocialCulturalAndEnvironmentBarriers": {
+            "@id": "sci:SocialCulturalAndEnvironmentBarriers",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "Miscellaneous": {
+            "@id": "sci:Miscellaneous",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        }
+    }
+}

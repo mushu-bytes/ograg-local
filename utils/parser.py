@@ -54,36 +54,38 @@ def get_config(no_args=False):
     if args.results_dir is not None:
         config.query.answers_file = config.query.answers_file.replace("results/", f'{args.results_dir}/')
         config.evaluator.eval_file = config.evaluator.eval_file.replace("results/", f'{args.results_dir}/')
-    
-    api_keys = yaml.safe_load(open('api_keys.yaml', 'r'))
-    for k, v in api_keys.items():
-        os.environ[k] = v
-    if config.model.deployment_name.startswith('gpt'):
-        if 'AZURE_API_KEY' in api_keys and not args.force_personal_openai:
-            config.model.api_key = api_keys['AZURE_API_KEY']
-            os.environ['OPENAI_API_KEY'] = api_keys['AZURE_API_KEY']
-            os.environ['GRAPHRAG_API_KEY'] = api_keys['AZURE_API_KEY']
-            os.environ['GRAPHRAG_LLM_API_KEY'] = api_keys['AZURE_API_KEY']
-            config.model.api_base = api_keys['AZURE_API_BASE']
-            config.model.api_version = api_keys['AZURE_API_VERSION']
-            config.model.api_type = 'azure'
-        else:
-            config.model.api_key = api_keys['OPENAI_API_KEY']
-            os.environ['OPENAI_API_KEY'] = api_keys['OPENAI_API_KEY']
-            os.environ['GRAPHRAG_API_KEY'] = api_keys['OPENAI_API_KEY']
-            os.environ['GRAPHRAG_LLM_API_KEY'] = api_keys['OPENAI_API_KEY']
-    elif 'llama' in config.model.deployment_name.lower():
-        os.environ['TOGETHER_API_KEY'] = api_keys['TOGETHER_API_KEY']
-        config.model.api_type = 'llama'
-    if config.embedding_model.deployment_name.startswith('text-embedding'):
-        if 'AZURE_API_KEY' in api_keys and not args.force_personal_openai and not args.force_personal_openai_emb_only:
-            config.embedding_model.api_key = api_keys['AZURE_API_KEY']
-            config.embedding_model.api_type = 'azure'
-            config.embedding_model.api_base = api_keys['AZURE_API_BASE']
-            config.embedding_model.api_version = api_keys['AZURE_API_VERSION']
-        else:
-            config.embedding_model.api_key = api_keys['OPENAI_API_KEY']
-            config.embedding_model.api_type = 'openai'
+    try:
+        api_keys = yaml.safe_load(open('api_keys.yaml', 'r'))
+        for k, v in api_keys.items():
+            os.environ[k] = v
+        if config.model.deployment_name.startswith('gpt'):
+            if 'AZURE_API_KEY' in api_keys and not args.force_personal_openai:
+                config.model.api_key = api_keys['AZURE_API_KEY']
+                os.environ['OPENAI_API_KEY'] = api_keys['AZURE_API_KEY']
+                os.environ['GRAPHRAG_API_KEY'] = api_keys['AZURE_API_KEY']
+                os.environ['GRAPHRAG_LLM_API_KEY'] = api_keys['AZURE_API_KEY']
+                config.model.api_base = api_keys['AZURE_API_BASE']
+                config.model.api_version = api_keys['AZURE_API_VERSION']
+                config.model.api_type = 'azure'
+            else:
+                config.model.api_key = api_keys['OPENAI_API_KEY']
+                os.environ['OPENAI_API_KEY'] = api_keys['OPENAI_API_KEY']
+                os.environ['GRAPHRAG_API_KEY'] = api_keys['OPENAI_API_KEY']
+                os.environ['GRAPHRAG_LLM_API_KEY'] = api_keys['OPENAI_API_KEY']
+        elif 'llama' in config.model.deployment_name.lower():
+            os.environ['TOGETHER_API_KEY'] = api_keys['TOGETHER_API_KEY']
+            config.model.api_type = 'llama'
+        if config.embedding_model.deployment_name.startswith('text-embedding'):
+            if 'AZURE_API_KEY' in api_keys and not args.force_personal_openai and not args.force_personal_openai_emb_only:
+                config.embedding_model.api_key = api_keys['AZURE_API_KEY']
+                config.embedding_model.api_type = 'azure'
+                config.embedding_model.api_base = api_keys['AZURE_API_BASE']
+                config.embedding_model.api_version = api_keys['AZURE_API_VERSION']
+            else:
+                config.embedding_model.api_key = api_keys['OPENAI_API_KEY']
+                config.embedding_model.api_type = 'openai'
+    except Exception as e:
+        print(e)
         
     # if config.index_dir is None:
     #     doc_name = '_'.join([os.path.basename(x)[:-3].split('_')[0] for x in glob.glob(os.path.join(config.data.documents_dir, f'**/*.md'), recursive=True)])

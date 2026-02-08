@@ -7,7 +7,14 @@ from collections import defaultdict
 from utils import load_llm_and_embeds
 import pandas as pd
 from tqdm import tqdm
+from llama_index.core.base.response.schema import Response
 import time
+
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
 
 class QnA_IO:
     def __init__(self):
@@ -72,6 +79,14 @@ if __name__ == '__main__':
         else:
             vector_retriever = VectorIndexRetriever(index=vector_index)
         query_engine = RAGQueryEngine(llm=llm, vector_retriever=vector_retriever, verbose=True)
+    elif config.query.method == 'rag_with_reasoning':
+        from query_engine import RAGQueryEngineWithReasoning
+        vector_index = create_or_load_index(index_directory=config.data.index_dir, service_context=service_context, documents=documents)
+        if 'hyperparams' in config.query and 'top_k' in config.query.hyperparams:
+            vector_retriever = VectorIndexRetriever(index=vector_index, similarity_top_k=config.query.hyperparams.top_k) #, embed_model=embeddings)
+        else:
+            vector_retriever = VectorIndexRetriever(index=vector_index)
+        query_engine = RAGQueryEngineWithReasoning(llm=llm, vector_retriever=vector_retriever, verbose=True)
     elif config.query.method == 'raptor-rag':
         from query_engine import RaptorQueryEngine
         from llama_index.llms.azure_openai import AzureOpenAI
@@ -119,16 +134,34 @@ if __name__ == '__main__':
                             embed_model=embeddings,
                             vector_retriever=vector_retriever,
                         )
+    elif config.query.method == 'ontohypergraph-rag-no-reasoning':
+        from query_engine import OntoHyperGraphQueryEngineNoReasoning
+        vector_retriever = None
+        if 'hyperparams' in config.query and 'vector_index' in config.query.hyperparams and config.query.hyperparams.vector_index:
+            vector_index = create_or_load_index(index_directory=config.data.index_dir, service_context=service_context, documents=documents)
+            vector_retriever = VectorIndexRetriever(index=vector_index)
+        query_engine = OntoHyperGraphQueryEngineNoReasoning.from_ontology_path(
+                            ontology_nodes_path=f'{config.data.kg_storage_path}',
+                            llm=llm,
+                            embed_model=embeddings,
+                            vector_retriever=vector_retriever,
+                        )
     elif config.query.method == 'fullontology-rag':
         from query_engine import FullOntoQueryEngine
         query_engine = FullOntoQueryEngine.from_ontology_path(
                             ontology_nodes_path=f'{config.data.kg_storage_path}',
                             llm=llm,
                         )
+    elif config.query.method == 'ontodef-rag':
+        from query_engine import OntoDefQueryEngine
+        query_engine = OntoDefQueryEngine(llm=llm)
+    elif config.query.method == 'simple-llm':
+        from query_engine import SimpleLLMQueryEngine
+        query_engine = SimpleLLMQueryEngine(llm=llm)
     else:
         raise NotImplementedError(f"Query method {config.query.method} is not implemented yet.")
-    
-    if len(config.query.questions_file) == 0:
+
+    if not config.query.questions_file or len(config.query.questions_file) == 0:
         while True:
             query = input("Type your query (press Enter to stop):")
             if query == '':
@@ -141,10 +174,12 @@ if __name__ == '__main__':
     else:
         answer_dir = os.path.dirname(config.query.answers_file)
         os.makedirs(answer_dir, exist_ok=True)
+        print(config.query)
         if 'hyperparams' in config.query:
             answer_file = os.path.basename(config.query.answers_file)
             answer_fname, answer_ftype = answer_file.split('.')
-            config.query.answers_file = f'{answer_dir}/{answer_fname}_{'_'.join([f'{k}{v}' for k, v in config.query.hyperparams.items()])}.{answer_ftype}' 
+            # clear
+            # config.query.answers_file = f'{answer_dir}/{answer_fname}_{'_'.join([f'{k}{v}' for k, v in config.query.hyperparams.items()])}.{answer_ftype}' 
         if os.path.exists(config.query.answers_file) and not config.rewrite:
             exit(f"Answers file {config.query.answers_file} already exists.")
 
@@ -152,24 +187,46 @@ if __name__ == '__main__':
         questions = evalauator.read(config.query.questions_file)
         questions = evalauator.data["question"]
         responses = []
+        reasonings = []
+        conclusions = []
         times = []
         retrieved_contexts = []
-        print (config.query.answers_file)
+        print(config.query.answers_file)
         for question in tqdm(questions):
             start_time = time.time()
-            if 'hyperparams' in config.query:
-                response, retrieved_context = query_engine.query(query_str=question, return_context=True, rules=rules, **config.query.hyperparams)
-            else:
-                response, retrieved_context = query_engine.query(query_str=question, return_context=True, rules=rules)
             try:
-                responses.append(response.response)
-            except:
-                try:
-                    responses.append(response.content)
-                except:
+                if 'hyperparams' in config.query:
+                    response, retrieved_context = query_engine.query(query_str=question, return_context=True, rules=rules, **config.query.hyperparams)
+                else:
+                    response, retrieved_context = query_engine.query(query_str=question, return_context=True, rules=rules)
+
+                # Check if response is a plain string, a llama index Response object, or structured Pydantic object
+                if isinstance(response, str):
+                    # Plain string response (no reasoning traces)
                     responses.append(response)
-            times.append(time.time() - start_time)
-            retrieved_contexts.append(retrieved_context)
-            print (f'Question: {question}\nResponse: {response}\nRetrieved Context: {retrieved_context}\n')
+                    reasonings.append([])
+                    conclusions.append(None)
+                elif isinstance(response, Response):
+                    responses.append(response.response)
+                    reasonings.append([])
+                    conclusions.append(None)
+                else:
+                    # Extract reasoning and conclusion from structured response
+                    reasoning_steps = [step.reasoning_step for step in response.reasoning]
+                    conclusion = response.conclusion
+
+                    responses.append(str(response))
+                    reasonings.append(reasoning_steps)
+                    conclusions.append(conclusion)
+
+                times.append(time.time() - start_time)
+                retrieved_contexts.append(retrieved_context)
+            except Exception as e:
+                responses.append("ERROR: IGNORE")
+                reasonings.append(["ERROR"])
+                conclusions.append(False)
+                retrieved_contexts.append([{"ERROR": "ERROR"}])
+                times.append(time.time() - start_time)
+                print(f'Question: {question}, Error: {e}')
         
-        evalauator.write(config.query.answers_file, answer=responses, retrieved_context=retrieved_contexts, time=times)
+        evalauator.write(config.query.answers_file, answer=responses, reasoning=reasonings, conclusion=conclusions, retrieved_context=retrieved_contexts, time=times)

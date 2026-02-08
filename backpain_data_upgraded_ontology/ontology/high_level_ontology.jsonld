@@ -1,0 +1,20 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "clbp": "http://chronic-lower-back-pain.org/",
+        "Variable": {
+            "@id": "clbp:Variable",
+            "@type": "owl:Class",
+            "rdfs:comment": "Variables associated with Chronic Lower Back Pain",
+            "@context": {
+                "name": "schema:Text",
+                "description": "schema:Text",
+                "hasCauses": "schema:Text",
+                "hasAssociations": "schema:Text",
+                "hasTemporalCauses": "schema:Text",
+                "hasMediators": "schema:Text",
+                "evidence": "schema:Text"
+            }
+        }
+    }
+}

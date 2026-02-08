@@ -1,0 +1,47 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "sci": "http://spinal-cord-injury.org/",
+        "SCICondition": {
+            "@id": "sci:SCICondition",
+            "@context": {
+                "condition_name": "schema:name",
+                "symptoms_description": "schema:Text",
+                "how_to_prevent": "schema:Text",
+                "how_to_manage": "schema:Text",
+                "impact_description": "schema:Text",
+                "treated_by_specialists": "sci:SpecialistList",
+                "treatment_options": "sci:TreatmentList",
+                "helpful_products": "sci:ProductList",
+                "relevant_to_stage": "sci:StageList",
+                "home_modifications_needed": "schema:Text"
+            }
+        },
+        "SpecialistList": {
+            "@id": "sci:SpecialistList",
+            "@context": {
+                "specialist_name": "schema:name"
+            }
+        },
+        "TreatmentList": {
+            "@id": "sci:TreatmentList",
+            "@context": {
+                "treatment_name": "schema:name",
+                "treatment_phase": "schema:Text"
+            }
+        },
+        "ProductList": {
+            "@id": "sci:ProductList",
+            "@context": {
+                "product_name": "schema:name",
+                "product_category": "schema:Text"
+            }
+        },
+        "StageList": {
+            "@id": "sci:StageList",
+            "@context": {
+                "stage_name": "schema:name"
+            }
+        }
+    }
+}

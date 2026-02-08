@@ -11,6 +11,9 @@ import os
 import pickle
 import sys
 
+import openai
+import outlines
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Tuple
 
@@ -150,12 +153,13 @@ def create_kg_triples(
             ]
 
             for future in as_completed(futures):
+                json_filename = json_filenames[
+                    futures.index(future)
+                ]  # Get the filename associated with the future
                 try:
                     triples_with_document = future.result()
                     all_triples_with_documents.extend(triples_with_document)
-                    json_filename = json_filenames[
-                        futures.index(future)
-                    ]  # Get the filename associated with the future
+
                     LOGGER.info(f"Finished processing file {json_filename}")
                 except Exception as e:
                     LOGGER.error(f"An error occurred while processing {json_filename}: {e}")
@@ -192,13 +196,25 @@ class KGGenerator:
         self.llm = llm
         self._verbose = verbose
 
+        client = openai.OpenAI(
+            base_url="http://localhost:8000/v1",  # Custom endpoint
+            api_key="PLACEHOLDER"
+        )
+
+        model = outlines.from_vllm(client, "mistralai/Mistral-7B-Instruct-v0.3")
+        
+        from outlines import Generator
+        from typing import List, Tuple
+
+        self.structured_llm = Generator(model, output_type=List[Tuple[str, str, str]])
+
     @retry(stop_max_attempt_number=3, retry_on_exception=retry_if_ast_eval_error)
     def generate_triples(self, json_filename: str) -> List[Tuple[str, str, str, str]]:
         """Generate and evaluate triples from ontology data file."""
         with open(json_filename, "r") as json_file:
             ontology_data_str = json_file.read()
         prompt = KG_TRIPLET_ONTOLOGY_EXTRACT_PROMPT.format(data=ontology_data_str)
-        triples_str = self.llm.invoke(prompt).content
+        triples_str = self.structured_llm(prompt)
         triples = ast.literal_eval(triples_str)
         document_name = os.path.basename(json_filename).replace(".jsonld", "")
         triples_with_document = [(document_name,) + triple for triple in triples]

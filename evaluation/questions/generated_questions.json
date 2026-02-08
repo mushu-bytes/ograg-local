@@ -1,0 +1,1307 @@
+[
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Age may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Age precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Age temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Age and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Alcohol may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Alcohol precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Alcohol temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Alcohol and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Anxiety may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Anxiety precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Anxiety temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Anxiety and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that CCI may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in CCI precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does CCI temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between CCI and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Catastrophizing may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Catastrophizing precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Catastrophizing temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Catastrophizing and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Depression may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Depression precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Depression temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Depression and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Education may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Education precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Education temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Education and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Fear_avoidance may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Fear_avoidance precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Fear_avoidance temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Fear_avoidance and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Financial_level may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Financial_level precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Financial_level temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Financial_level and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Obesity may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Obesity precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Obesity temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Obesity and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sex may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sex precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Sex temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sex and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Sleep may have a causal relationship with Smoking, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Sleep precedes and leads to a change in Smoking, either directly or through one or more intermediate variables? That is, does Sleep temporally precede and influence Smoking in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Sleep and Smoking? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Alcohol, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Alcohol, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Alcohol in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Alcohol? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Anxiety, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Anxiety, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Anxiety in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Anxiety? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with CCI, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in CCI, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence CCI in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and CCI? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Catastrophizing, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Catastrophizing, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Catastrophizing in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Catastrophizing? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Depression, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Depression, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Depression in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Depression? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Education, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Education, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Education in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Education? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Fear_avoidance, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Fear_avoidance, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Fear_avoidance in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Fear_avoidance? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Financial_level, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Financial_level, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Financial_level in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Financial_level? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Obesity, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Obesity, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Obesity in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Obesity? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with PEG, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in PEG, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence PEG in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and PEG? Output True if there exists a statistical association between the two variables, False, if not."
+  },
+  {
+    "question": "Is it plausible that Smoking may have a causal relationship with Sleep, either directly or through one or more intermediate variables? Plausibility refers to the extent to which a hypothesized relationship may be biologically, theoretically, or scientifically reasonable, based on existing knowledge. Output TRUE if it is plausible, FALSE if not."
+  },
+  {
+    "question": "Is there a causal relationship where a change in Smoking precedes and leads to a change in Sleep, either directly or through one or more intermediate variables? That is, does Smoking temporally precede and influence Sleep in a way consistent with a directional causal link? Output TRUE if there is a causal relationship and FALSE if not."
+  },
+  {
+    "question": "Association refers to any statistical dependency between two variables, regardless of strength or directionality. That is, if knowledge of the value of one variable gives information about the other, they are said to be associated. Is there an association between Smoking and Sleep? Output True if there exists a statistical association between the two variables, False, if not."
+  }
+]

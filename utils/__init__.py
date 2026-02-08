@@ -8,6 +8,7 @@ from utils.utils import (
     create_or_load_index,
     load_llm_and_embeds,
     load_graph_nodes,
+    load_ont_nodes,
     load_graph_nodes_chunks, 
     cosine_similarity,
     flatten_tree

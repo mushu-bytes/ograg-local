@@ -35,16 +35,16 @@ class GraphRAGQueryEngine:
     def _retrieve_nodes(self, query_str: str, return_context:bool=False, **kwargs):
         if self.method == "local":
             search_result = run_local_search(
-                                data_dir=f"{self.data_config["documents_dir"]}/output/final/artifacts", 
-                                root_dir=f"{self.data_config["documents_dir"]}", 
+                                data_dir=f'{self.data_config["documents_dir"]}/output/final/artifacts', 
+                                root_dir=f'{self.data_config["documents_dir"]}', 
                                 query=query_str,
                                 community_level=self.community_level,
                                 response_type=self.response_type,
                             )
         elif self.method == "global":
             search_result = run_global_search(
-                                data_dir=f"{self.data_config["documents_dir"]}", 
-                                root_dir=f"{self.data_config["documents_dir"]}/output/final/artifacts", 
+                                data_dir=f'{self.data_config["documents_dir"]}', 
+                                root_dir=f'{self.data_config["documents_dir"]}/output/final/artifacts', 
                                 query=query_str,
                                 community_level=self.community_level,
                                 response_type=self.response_type,

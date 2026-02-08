@@ -61,7 +61,7 @@ def read_markdown_files(file_paths: List[Path], langchain: bool=False) -> List[D
                 documents.extend([Document.from_langchain_format(doc) for doc in langchain_docs])
             else:
                 documents.extend(markdownreader.load_data(markdown_file_path))
-
+    documents = sorted(documents, key=lambda x: x.metadata['source'])
     return documents
 
 def read_pdf_files(file_paths: List[Path], smart=True) -> List[Document]:
@@ -95,7 +95,7 @@ def read_pdf_files(file_paths: List[Path], smart=True) -> List[Document]:
                 documents.extend(pdfreader.load_data(str(pdf_file_path)))
             except:
                 pass
-
+    documents = sorted(documents, key=lambda x: x.metadata['file_name'])
     return documents
 
 def load_llm_and_embeds(model_config: Dict[str, Any], embedding_config: Dict[str, Any]) -> Tuple[ChatOpenAI, Embeddings]:
@@ -113,27 +113,15 @@ def load_llm_and_embeds(model_config: Dict[str, Any], embedding_config: Dict[str
 
     if api_type in ['azure', 'openai']:
         if not (resource_endpoint and api_key):
-            # Use managed identity if API key is not available but endpoint is
-            if resource_endpoint and not api_key:
-                credential = DefaultAzureCredential()
-                token_provider = get_bearer_token_provider(credential, "https://cognitiveservices.azure.com/.default")
-                llm = AzureChatOpenAI(
-                    azure_endpoint=resource_endpoint,
-                    openai_api_version=api_version,
-                    azure_ad_token_provider=token_provider,
-                    deployment_name=deployment_name,
-                    temperature=0.0,
-                    max_retries=15,
-                    max_tokens=MAX_TOKENS,
-                )
-            else:
-                llm = ChatOpenAI(
-                    api_key=api_key,
-                    model=deployment_name,
-                    temperature=0.0,
-                    max_retries=15,
-                    max_tokens=MAX_TOKENS,
-                )
+            llm = ChatOpenAI(
+                api_key=api_key,
+                model=deployment_name,
+                temperature=0.0,
+                max_retries=2,
+                max_tokens=MAX_TOKENS,
+                base_url="http://localhost:8000/v1"
+            )
+            print("Instantiated the correct LLM (ChatOpenAI)")
             
             # raise ValueError("Required connection details are missing.")
         else:
@@ -210,27 +198,14 @@ def create_service_context(model_config: Dict[str, Any], embedding_config: Dict[
 
     if api_type in ['azure', 'openai']:
         if not (resource_endpoint and api_key):
-            # Use managed identity if API key is not available but endpoint is
-            if resource_endpoint and not api_key:
-                credential = DefaultAzureCredential()
-                token_provider = get_bearer_token_provider(credential, "https://cognitiveservices.azure.com/.default")
-                llm = AzureChatOpenAI(
-                    azure_endpoint=resource_endpoint,
-                    openai_api_version=api_version,
-                    azure_ad_token_provider=token_provider,
-                    deployment_name=deployment_name,
-                    temperature=0.0,
-                    max_retries=15,
-                    max_tokens=MAX_TOKENS,
-                )
-            else:
-                llm = ChatOpenAI(
-                    api_key=api_key,
-                    model=deployment_name,
-                    temperature=0.0,
-                    max_retries=15,
-                    max_tokens=MAX_TOKENS,
-                )
+            llm = ChatOpenAI(
+                api_key=api_key,
+                model=deployment_name,
+                temperature=0.0,
+                max_retries=2,
+                max_tokens=MAX_TOKENS,
+                base_url="http://localhost:8000/v1"
+            )
             
             # raise ValueError("Required connection details are missing.")
         else:
@@ -361,11 +336,10 @@ def get_documents(input_dir: str, subdir: bool=False, smart_pdf: bool=True, full
     for subdir in subdirectories:
         print(f"Processing subdirectory: {subdir}")
 
-        markdown_paths = list(subdir.glob("*.md"))
+        markdown_paths = list(subdir.glob("*.mmd"))
         documents = read_markdown_files(markdown_paths, langchain=full_text)
         pdf_paths = list(subdir.glob("*.pdf"))
         documents += read_pdf_files(pdf_paths, smart=smart_pdf and not full_text)
-        
     return documents
 
 def create_or_load_index(index_directory: str, service_context: ServiceContext, documents: Optional[Sequence[Document]] = None) -> VectorStoreIndex:
@@ -380,6 +354,19 @@ def create_or_load_index(index_directory: str, service_context: ServiceContext, 
     assert type(index) is VectorStoreIndex
     return index
 
+def load_ont_nodes(ontology_nodes_path: str):
+    nodes = []
+    for fname in os.listdir(ontology_nodes_path):
+        if fname.endswith('.jsonld'):
+            fname = os.path.join(ontology_nodes_path, fname)
+            try:
+                with open(f'{fname}', 'r') as f:
+                    data = json.load(f)
+                    if '@graph' in data:
+                        nodes += data['@graph']
+            except Exception as e:
+                print(f"Error Occured when loading {fname}: {e}")
+    return nodes
 
 def load_graph_nodes(ontology_nodes_path: str):
     nodes = []
@@ -390,7 +377,9 @@ def load_graph_nodes(ontology_nodes_path: str):
                 if fname.endswith('.jsonld'):
                     fname = os.path.join(ontdir, fname)
                     with open(f'{fname}', 'r') as f:
-                        nodes += json.load(f)['@graph']
+                        data = json.load(f)
+                        if '@graph' in data:
+                            nodes += data['@graph']
     return nodes
 
 def load_graph_nodes_chunks(ontology_nodes_path: str, chunks: List[Document]):

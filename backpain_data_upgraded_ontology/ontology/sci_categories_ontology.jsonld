@@ -1,0 +1,61 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "sci": "http://spinal-cord-injury.org/",
+        "PhysicalHealth": {
+            "@id": "sci:PhysicalHealth",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "MentalHealthAndLifestyle": {
+            "@id": "sci:MentalHealthAndLifestyle",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "ActivitiesAndEquipment": {
+            "@id": "sci:ActivitiesAndEquipment",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SupportAndResources": {
+            "@id": "sci:SupportAndResources",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        },
+        "SocialAndFinancial": {
+            "@id": "sci:SocialAndFinancial",
+            "@type": "owl:Class",
+            "@context": {
+                "name": "schema:text",
+                "description": "schema:description",
+                "impact": "schema:text",
+                "causally_related_to": "schema:text",
+                "ameliorates": "schema:text"
+            }
+        }
+    }
+}

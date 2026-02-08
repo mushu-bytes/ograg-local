@@ -1,9 +1,14 @@
 from concurrent.futures import ThreadPoolExecutor
-from knowledge_graph import create_kg_triples
 from ontology_mapping import OntologyMapping
 from utils import get_documents, get_config, load_llm_and_embeds
 import os
 import time
+
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
 
 if __name__ == '__main__':
     config = get_config()
@@ -13,7 +18,7 @@ if __name__ == '__main__':
     documents = get_documents(config.data.documents_dir, 
                               subdir=config.data.subdir, 
                               smart_pdf=config.data.smart_pdf,
-                              full_text=config.data.full_text,)
+                              full_text=config.data.full_text)
 
     to_map_ontology = False
     to_create_kg = False
@@ -31,6 +36,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
     if to_map_ontology or config.options.force_map_ontology:
+        print("Generating Ontology Data")
         with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
             ontology_creator = OntologyMapping(
                 ontology_context_definition_path=config.data.ontology_path,
@@ -38,16 +44,17 @@ if __name__ == '__main__':
                 documents=documents,
                 chunk_size=config.data.chunk_size if 'chunk_size' in config.data else 8192,
             )
-            current_output_dir = f'{config.data.kg_storage_path}/ontology'
+            current_output_dir = f'{config.data.kg_storage_path}'
             os.makedirs(current_output_dir, exist_ok=True)
             ontology_creator.generate_and_save_ontology_data(executor, current_output_dir)
-    print (config.data.ontology_path, time.time() - start_time)
+    print(f"# of Documents Proccesed: {len(documents)}")
+    print(config.data.ontology_path, time.time() - start_time)
     
-    if (to_create_kg or config.options.force_create_kg_triples) and not config.options.only_map_ontology:
-        create_kg_triples(
-            input_directory=config.data.kg_storage_path,
-            output_directory=config.data.kg_storage_path,
-            llm=llm,
-            batch_size=config.query.batch_size,
-        )
+    # if (to_create_kg or config.options.force_create_kg_triples) and not config.options.only_map_ontology:
+    #     create_kg_triples(
+    #         input_directory=config.data.kg_storage_path,
+    #         output_directory=config.data.kg_storage_path,
+    #         llm=llm,
+    #         batch_size=config.query.batch_size,
+    #     )
     

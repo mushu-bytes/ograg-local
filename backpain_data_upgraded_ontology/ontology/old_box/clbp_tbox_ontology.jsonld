@@ -1,0 +1,32 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "clbp": "http://chronic-lower-back-pain.org/",
+        "Variable": {
+            "@id": "clbp:Variable",
+            "@type": "schema:Thing",
+            "definition": "A measurable factor, characteristic, or condition that can influence or be influenced by chronic lower back pain, including demographic factors, comorbidities, symptoms, treatments, psychological states, and environmental conditions.",
+            "@context": {
+                "hasName": "schema:Text",
+                "hasDefinition": "schema:Text"
+            }
+        },
+        "Relationship": {
+            "@id": "clbp:Relationship",
+            "@type": "schema:Thing",
+            "definition": "A documented causal relationship or association between two variables in chronic lower back pain research, evaluated across multiple dimensions including biological plausibility, statistical association, temporal sequence, and methodological rigor for confounding control.",
+            "@context": {
+                "Variable 1": "clbp:Variable",
+                "Variable 2": "clbp:Variable",
+                "Plausibility": "schema:Text",
+                "Association": "schema:Text",
+                "Temporality": "schema:Text",
+                "Expert Opinion": "schema:Text",
+                "Analysis-based confounding control": "schema:Text",
+                "Design-based confounding control": "schema:Text",
+                "Assessment": "schema:Text",
+                "hasEvidence": "schema:Text"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  vllm:
+    image: vllm/vllm-openai:v0.7.0
+    command: --model mistralai/Mistral-7B-Instruct-v0.3 --host 0.0.0.0 --dtype="float16" --tensor-parallel-size 2 --max-num-seqs 1 --seed=42
+    ports:
+      - "8000:8000"
+    volumes:
+      - ~/.cache/huggingface:/root/.cache/huggingface
+    env_file:
+      - /home/damon/.env
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    ipc: host

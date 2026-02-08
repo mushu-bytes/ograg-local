@@ -1,0 +1,560 @@
+[
+  {
+    "Question ID":"Q001",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"What is a spinal cord injury?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. What is a spinal cord injury?",
+    "LLM Response":"Q001_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/7\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q002",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"What is the difference between complete and incomplete spinal cord injuries?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. What is the difference between complete and incomplete spinal cord injuries?",
+    "LLM Response":"Q002_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/7\/2025",
+    "Table?":"Yes"
+  },
+  {
+    "Question ID":"Q003",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"How long will I be in the hospital\/rehabilitation center?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. How long will I be in the hospital\/rehabilitation center?",
+    "LLM Response":"Q003_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q004",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"What immediate interventions can I expect?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. What immediate interventions can I expect?",
+    "LLM Response":"Q004_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q005",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"Can you help me understand what my injury means?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. Can you help me understand what my injury means?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q006",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"How might my health be impacted?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. How might my health be impacted?",
+    "LLM Response":"Q006_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q007",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"How do I choose a Rehabilitation Center?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. How do I choose a Rehabilitation Center?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q008",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"I have no health insurance; how can I get care?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. I have no health insurance; how can I get care?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q009",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"Are there any new treatments or research developments I should know about?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. Are there any new treatments or research developments I should know about?",
+    "LLM Response":"Q009_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q010",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"Will I ever regain sensation or movement?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. Will I ever regain sensation or movement?",
+    "LLM Response":"Q010_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q011",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"How do I tell my family and friends about my injury?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. How do I tell my family and friends about my injury?",
+    "LLM Response":"Q011_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q012",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"What is spinal shock and how long will it last?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. What is spinal shock and how long will it last?",
+    "LLM Response":"Q012_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q013",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"How soon can I start rehabilitation?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. How soon can I start rehabilitation?",
+    "LLM Response":"Q013_E1_R0_S0_V0_GAIO",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q014",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"What can I expect during my hospital stay?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. What can I expect during my hospital stay?",
+    "LLM Response":"Q014_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q015",
+    "Stage of Injury":"ICU\/Acute",
+    "Original Question":"Is this permanent?",
+    "question":"I just suffered a spinal cord injury and I am in the hospital. Is this permanent?",
+    "LLM Response":"Q015_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q016",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will my injury affect my bladder and bowel control?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will my injury affect my bladder and bowel control?",
+    "LLM Response":"Q016_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q017",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"Are there clinical trials I can qualify for?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. Are there clinical trials I can qualify for?",
+    "LLM Response":"Q017_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q018",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How can I locate funding for rehabilitation and equipment?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How can I locate funding for rehabilitation and equipment?",
+    "LLM Response":"Q018_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q019",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What are the risks of secondary complications?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What are the risks of secondary complications?",
+    "LLM Response":"Q019_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q020",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will this injury affect my sexual function?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will this injury affect my sexual function?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q021",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will my injury impact my mental health?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will my injury impact my mental health?",
+    "LLM Response":"Q021_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/8\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q022",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I manage chronic pain?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I manage chronic pain?",
+    "LLM Response":"Q022_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q023",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What are the signs of autonomic dysreflexia and how do I manage it?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What are the signs of autonomic dysreflexia and how do I manage it?",
+    "LLM Response":"Q023_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q024",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What role does family support play in my recovery?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What role does family support play in my recovery?",
+    "LLM Response":"Q024_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q025",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I manage my energy levels and avoid fatigue?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I manage my energy levels and avoid fatigue?",
+    "LLM Response":"Q025_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q026",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will my daily routine change?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will my daily routine change?",
+    "LLM Response":"Q026_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q027",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I manage my relationship with my partner? family? childen? friends?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I manage my relationship with my partner? family? children? friends?",
+    "LLM Response":"Q027_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q028",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What kind of support will I need at home?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What kind of support will I need at home?",
+    "LLM Response":"Q028_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q029",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will this injury affect my life expectancy?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will this injury affect my life expectancy?",
+    "LLM Response":"Q029_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q030",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What should I do if I experience severe pain or new symptoms?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What should I do if I experience severe pain or new symptoms?",
+    "LLM Response":"Q030_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q031",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How can I prevent pressure sores?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How can I prevent pressure sores?",
+    "LLM Response":"Q031_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q032",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I manage spasticity?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I manage spasticity?",
+    "LLM Response":"Q032_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q033",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How can I improve my independence at home?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How can I improve my independence at home?",
+    "LLM Response":"Q033_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q034",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What should I do in case of an emergency?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What should I do in case of an emergency?",
+    "LLM Response":"Q034_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q035",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How can I ensure my caregivers are properly trained?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How can I ensure my caregivers are properly trained?",
+    "LLM Response":"Q035_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q036",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"What are the signs of complications I should watch for?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. What are the signs of complications I should watch for?",
+    "LLM Response":"Q036_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q037",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How can I stay motivated during my recovery?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How can I stay motivated during my recovery?",
+    "LLM Response":"Q037_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q038",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I choose the right wheelchair?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I choose the right wheelchair?",
+    "LLM Response":"Q038_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q039",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I adapt my home and\/or vehicle?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I adapt my home and\/or vehicle?",
+    "LLM Response":"Q039_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q040",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"Are there funding sources to help with adaptations of my home or vehicle?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. Are there funding sources to help with adaptations of my home or vehicle?",
+    "LLM Response":"Q040_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q041",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How do I get\/pay for care so I can go home instead of a facility?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How do I get\/pay for care so I can go home instead of a facility?",
+    "LLM Response":"Q041_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q042",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will I get my needs met w\/o feeling like a problem\/burden?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will I get my needs met w\/o feeling like a problem\/burden?",
+    "LLM Response":"Q042_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q043",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"How will I be able to parent my children?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. How will I be able to parent my children?",
+    "LLM Response":"Q043_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/9\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q044",
+    "Stage of Injury":"Subacute\/Rehab",
+    "Original Question":"Will I need to live in a facility?",
+    "question":"I have recently been diagnosed with a spinal cord injury and I am in rehabilitation. Will I need to live in a facility?",
+    "LLM Response":"Q044_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q045",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"What changes will I need to make to my home?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. What changes will I need to make to my home?",
+    "LLM Response":"Q045_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q046",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"Can I drive a car?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. Can I drive a car?",
+    "LLM Response":"Q046_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q047",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"When should I apply for social assistance?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. When should I apply for social assistance?",
+    "LLM Response":"Q047_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q048",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"Will I be able to have children?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. Will I be able to have children?",
+    "LLM Response":"Q048_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q049",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"What financial resources are available to help with my care?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. What financial resources are available to help with my care?",
+    "LLM Response":"Q049_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q050",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"What kind of equipment will I need?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. What kind of equipment will I need?",
+    "LLM Response":"Q050_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q051",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"Can I return to work or school?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. Can I return to work or school?",
+    "LLM Response":"Q051_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q052",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How can I stay active and maintain my health?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How can I stay active and maintain my health?",
+    "LLM Response":"Q052_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q053",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How can I connect with a peer-to-peer support group?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How can I connect with a peer-to-peer support group?",
+    "LLM Response":"Q053_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q054",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"Can I travel with a spinal cord injury?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. Can I travel with a spinal cord injury?",
+    "LLM Response":"Q054_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q055",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How can I stay connected with others?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How can I stay connected with others?",
+    "LLM Response":"Q055_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q056",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"What are my options for home health care?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. What are my options for home health care?",
+    "LLM Response":"Q056_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q057",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How do I handle changes in my body image and self-esteem?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How do I handle changes in my body image and self-esteem?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q058",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"What vocational training and education opportunities are available?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. What vocational training and education opportunities are available?",
+    "LLM Response":"Q058_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q059",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How do I transition from hospital to home?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How do I transition from hospital to home?",
+    "LLM Response":"Q059_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q060",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How do I manage my relationship with PCAs?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How do I manage my relationship with PCAs?",
+    "LLM Response":"Q060_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q061",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"How do I get a ramp quickly for low cost so I can go home?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. How do I get a ramp quickly for low cost so I can go home?",
+    "LLM Response":"No response",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  },
+  {
+    "Question ID":"Q062",
+    "Stage of Injury":"Transition Home",
+    "Original Question":"Will I have a good quality of life?",
+    "question":"I just finalized rehabilitation for spinal cord injury and I am getting ready to transition home. Will I have a good quality of life?",
+    "LLM Response":"Q062_E1_R0_S0_V0_GAIO.txt",
+    "Date of LLM Response Entry":"7\/10\/2025",
+    "Table?":"No"
+  }
+]

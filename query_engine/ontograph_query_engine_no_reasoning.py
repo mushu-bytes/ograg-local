@@ -8,7 +8,6 @@ from tqdm import tqdm
 import numpy as np
 import pickle as pkl
 from llama_index.core.node_parser import SimpleNodeParser
-from models.reasoning_models import Answer
 from utils import load_graph_nodes, load_graph_nodes_chunks, cosine_similarity, flatten_tree, load_ont_nodes
 import logging
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -35,18 +34,12 @@ MAX_TOKENS = 1024
 # For example, if the context is {{'crop': 'soybean', 'seed': 'germination test requirements'}},
 # it means that the crop is soybean and its seed has germination test requirements.
 
-with open('/home/damon/ograg2/models/reasoning_models.py', 'r') as f:
-    schema = f.read()
-
 RAG_QUERY_PROMPT = """Given the context below, answer the following question. 
 Note that the context is provided as a list of valid facts in a dictionary format and an optional set of rules.
 
 Context: {context}
 
 Question: {query_str}
-
-Your answer must be in valid JSON, adhering to the following Pydantic schema: 
-{schema}
 
 Answer:
 """
@@ -269,16 +262,16 @@ class OntoHyperGraph:
 
 
 
-class OntoHyperGraphQueryEngine:
+class OntoHyperGraphQueryEngineNoReasoning:
     def __init__(self, llm: BaseLanguageModel, onto_hypergraph: OntoHyperGraph, vector_retriever: BaseRetriever=None):
         self._llm = llm
         self._onto_hypergraph = onto_hypergraph
         self._vector_retriever = vector_retriever
 
+        # TODO: Since we are just generating text, we can take out outlines here
         import outlines
         import openai
         from outlines import Generator
-        from models.reasoning_models import Answer
 
         client = openai.OpenAI(
             base_url="http://localhost:8000/v1",  # Custom endpoint
@@ -286,7 +279,7 @@ class OntoHyperGraphQueryEngine:
         )
 
         model = outlines.from_vllm(client, "mistralai/Mistral-7B-Instruct-v0.3")
-        self.structured_llm = Generator(model, Answer)
+        self.structured_llm = Generator(model)
               
     @classmethod
     def from_ontology_path(
@@ -396,8 +389,7 @@ class OntoHyperGraphQueryEngine:
             response = self.structured_llm(
                 RAG_QUERY_PROMPT.format(
                     context=relevant_context + rules, 
-                    query_str=query_str,
-                    schema=schema
+                    query_str=query_str
                 ),
                 max_tokens=MAX_TOKENS
             )
@@ -405,13 +397,10 @@ class OntoHyperGraphQueryEngine:
             response = self.structured_llm(
                 RAG_QUERY_PROMPT.format(
                     context=relevant_context + rules, 
-                    query_str=query_str,
-                    schema=schema
+                    query_str=query_str
                 ),
                 max_tokens=MAX_TOKENS
             )
-
-        response = Answer.model_validate_json(response)
 
         if return_context:
             return response, relevant_context

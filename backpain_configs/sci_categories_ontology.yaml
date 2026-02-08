@@ -1,0 +1,53 @@
+model:
+  # both api_base and api_key cannot be set at the same time. See how the model ChatOpenAI is instantiated in utils.
+  api_base:
+  api_key: placeholder
+  deployment_name: mistralai/Mistral-7B-Instruct-v0.3
+  api_type: openai # set to hit the local endpoint
+  api_version: placeholder
+
+embedding_model:
+  api_base: placeholder
+  api_key: placeholder
+  deployment_name: pritamdeka/S-PubMedBert-MS-MARCO
+  api_type: huggingface
+  api_version: placeholder 
+
+data:
+  documents_dir: /home/damon/scire-pdfs/pdfs
+  ontology_path: backpain_data_upgraded_ontology/ontology/sci_categories_ontology.jsonld
+  kg_storage_path: backpain_data_upgraded_ontology/sci_categories_ontology/
+  # index_dir: only used for kgrag
+  subdir: False
+  smart_pdf: True
+  full_text: True
+  chunk_size: 8192
+  
+query:
+  method: ontohypergraph-rag-no-reasoning #kg-rag
+  batch_size: 10
+  mode: json
+  questions_file: evaluation/questions/nascic_questions.json
+  answers_file: evaluation/answers2/sci_categories_ontology.json
+
+question_generator:
+  framework: ragas
+  test_size: 10
+  distr: 
+    simple: 1.0
+    reasoning: 0.0
+    multi_context: 0.0 
+
+evaluator:
+  eval_file: results/news/ragas_answers.json
+  reference_free: True
+  type: single
+  metrics: 
+    - answer_correctness
+    - faithfulness
+    - answer_similarity
+    - answer_relevancy
+    - context_relevancy
+    - context_precision
+    - context_recall
+    - context_entity_recall
